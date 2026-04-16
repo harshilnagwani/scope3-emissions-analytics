@@ -1,0 +1,6 @@
+Supplier,Period,Total_Spend_USD,Total_Emissions_tCO2e,Priority_Score
+A Corp,2022,10000,50,0.4
+B Ltd,2023,25000,140,0.8
+C Inc,2023,18000,90,0.6
+D Pvt,2022,12000,60,0.5
+E LLC,2024,30000,200,0.9
