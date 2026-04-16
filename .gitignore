@@ -1,20 +1,40 @@
-# Data files (keep only samples)
+# -------------------------------------------------------
+# Raw datasets — download from Kaggle/EPA, do not commit
+# -------------------------------------------------------
 data/*.csv
 !data/sample_dataset.csv
 
-# Jupyter checkpoints
+# Specifically exclude known raw dataset filenames
+data/Procurement*
+data/SupplyChain*
+
+# Jupyter
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+*.pyo
 
 # Environment
 .env
 venv/
 .venv/
+*.egg-info/
+dist/
+build/
 
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Power BI (large binary — store screenshots only)
+# Power BI binaries — store screenshots only, not .pbix
 *.pbix
+*.pbit
+
+# Large pipeline outputs — regenerate by running notebooks
+data/line_level_emissions_with_imputation.csv
+data/top20_suppliers_per_period.csv
+data/supplier_predictions.csv
+data/model_comparison.csv
+data/feature_importance.csv
+data/top10_emissions.png
