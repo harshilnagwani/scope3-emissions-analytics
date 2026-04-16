@@ -1,0 +1,634 @@
+PO_ID,Supplier,Order_Date,Delivery_Date,Item_Category,Order_Status,Quantity,Unit_Price,Negotiated_Price,Defective_Units,Compliance,Effective_Price,Spend_USD,Period,NAICS6,EF_kg_per_USD,EF_missing_initial,EF_imputed,Emissions_tCO2e,Method,Data_Quality
+PO-00002,Delta_Logistics,2022-04-25,2022-05-05,Office Supplies,Delivered,1509,39.32,37.34,235.0,Yes,37.34,56346.060000000005,2022,453210,0.163,False,False,9.18440778,Spend-based,Secondary
+PO-00003,Gamma_Co,2022-01-26,2022-02-15,MRO,Delivered,910,95.51,92.26,41.0,Yes,92.26,83956.6,2022,333999,0.26,False,False,21.828716000000004,Spend-based,Secondary
+PO-00004,Beta_Supplies,2022-10-09,2022-10-28,Packaging,Delivered,1344,99.85,95.52,112.0,Yes,95.52,128378.87999999999,2022,322211,0.49,False,False,62.905651199999994,Spend-based,Secondary
+PO-00005,Delta_Logistics,2022-09-08,2022-09-20,Raw Materials,Delivered,1180,64.07,60.53,171.0,No,60.53,71425.4,2022,325199,1.51,False,False,107.85235399999999,Spend-based,Secondary
+PO-00006,Epsilon_Group,2022-08-17,2022-08-29,MRO,Delivered,1145,69.21,63.57,39.0,Yes,63.57,72787.65,2022,333999,0.26,False,False,18.924789,Spend-based,Secondary
+PO-00007,Gamma_Co,2022-05-23,2022-06-03,MRO,Delivered,1774,51.37,47.82,96.0,No,47.82,84832.68000000001,2022,333999,0.26,False,False,22.056496800000005,Spend-based,Secondary
+PO-00008,Alpha_Inc,2022-04-15,2022-04-29,MRO,Delivered,1094,36.93,32.78,22.0,Yes,32.78,35861.32,2022,333999,0.26,False,False,9.3239432,Spend-based,Secondary
+PO-00009,Gamma_Co,2023-11-24,2023-11-28,Raw Materials,Partially Delivered,1688,43.93,39.89,89.0,Yes,39.89,67334.32,2023,325199,1.51,False,False,101.67482320000002,Spend-based,Secondary
+PO-00011,Epsilon_Group,2022-03-31,2022-04-15,Raw Materials,Delivered,5000,78.49,73.68,18.0,Yes,73.68,368400.00000000006,2022,325199,1.51,False,False,556.2840000000001,Spend-based,Secondary
+PO-00012,Beta_Supplies,2023-08-28,2023-09-11,Raw Materials,Delivered,5000,88.96,86.58,115.0,Yes,86.58,432900.0,2023,325199,1.51,False,False,653.679,Spend-based,Secondary
+PO-00014,Beta_Supplies,2022-02-02,,MRO,Delivered,5000,18.3,16.88,,Yes,16.88,84400.0,2022,333999,0.26,False,False,21.944,Spend-based,Secondary
+PO-00016,Beta_Supplies,2022-04-06,2022-04-21,Packaging,Delivered,5000,15.41,15.12,,Yes,15.12,75600.0,2022,322211,0.49,False,False,37.044,Spend-based,Secondary
+PO-00017,Delta_Logistics,2022-08-12,2022-08-31,MRO,Delivered,1173,61.54,55.49,172.0,No,55.49,65089.770000000004,2022,333999,0.26,False,False,16.923340200000002,Spend-based,Secondary
+PO-00018,Epsilon_Group,2022-08-27,2022-09-04,Raw Materials,Delivered,921,51.48,50.61,,Yes,50.61,46611.81,2022,325199,1.51,False,False,70.3838331,Spend-based,Secondary
+PO-00019,Gamma_Co,2023-06-02,2023-06-05,Raw Materials,Partially Delivered,1737,97.53,87.37,79.0,Yes,87.37,151761.69,2023,325199,1.51,False,False,229.1601519,Spend-based,Secondary
+PO-00020,Delta_Logistics,2023-09-09,2023-09-24,Raw Materials,Delivered,180,45.74,38.89,,No,38.89,7000.2,2023,325199,1.51,False,False,10.570302,Spend-based,Secondary
+PO-00022,Delta_Logistics,2023-07-29,2023-08-11,Raw Materials,Delivered,1382,24.93,23.75,,Yes,23.75,32822.5,2023,325199,1.51,False,False,49.561975,Spend-based,Secondary
+PO-00023,Epsilon_Group,2022-07-23,2022-08-08,MRO,Delivered,819,80.89,77.03,29.0,Yes,77.03,63087.57,2022,333999,0.26,False,False,16.4027682,Spend-based,Secondary
+PO-00024,Beta_Supplies,2023-10-28,2023-11-03,Office Supplies,Partially Delivered,393,72.53,66.31,42.0,No,66.31,26059.83,2023,453210,0.163,False,False,4.24775229,Spend-based,Secondary
+PO-00025,Beta_Supplies,2023-12-20,2024-01-01,MRO,Delivered,1565,21.3,20.09,161.0,Yes,20.09,31440.85,2023,333999,0.26,False,False,8.174621,Spend-based,Secondary
+PO-00026,Epsilon_Group,2023-07-13,2023-07-24,Packaging,Delivered,1487,19.15,17.24,,Yes,17.24,25635.879999999997,2023,322211,0.49,False,False,12.5615812,Spend-based,Secondary
+PO-00027,Alpha_Inc,2023-03-06,2023-03-26,MRO,Delivered,855,78.2,67.16,17.0,Yes,67.16,57421.799999999996,2023,333999,0.26,False,False,14.929668,Spend-based,Secondary
+PO-00028,Epsilon_Group,2022-08-14,2022-08-23,Raw Materials,Delivered,435,17.13,15.84,8.0,Yes,15.84,6890.4,2022,325199,1.51,False,False,10.404504,Spend-based,Secondary
+PO-00029,Delta_Logistics,2023-04-05,2023-04-22,MRO,Delivered,1265,90.26,79.47,187.0,Yes,79.47,100529.55,2023,333999,0.26,False,False,26.137683000000003,Spend-based,Secondary
+PO-00030,Epsilon_Group,2023-08-27,,MRO,Delivered,1005,80.55,73.31,30.0,Yes,73.31,73676.55,2023,333999,0.26,False,False,19.155903000000002,Spend-based,Secondary
+PO-00031,Gamma_Co,2022-10-12,2022-10-26,Electronics,Delivered,326,18.1,15.92,,No,15.92,5189.92,2022,334111,0.112,False,False,0.58127104,Spend-based,Secondary
+PO-00032,Alpha_Inc,2022-01-07,2022-01-15,Office Supplies,Delivered,1234,17.64,15.66,26.0,Yes,15.66,19324.44,2022,453210,0.163,False,False,3.1498837199999996,Spend-based,Secondary
+PO-00033,Epsilon_Group,2022-06-13,2022-06-29,MRO,Delivered,509,101.27,97.82,19.0,Yes,97.82,49790.38,2022,333999,0.26,False,False,12.9454988,Spend-based,Secondary
+PO-00034,Alpha_Inc,2023-12-16,2023-12-17,Packaging,Delivered,1387,48.71,43.71,27.0,Yes,43.71,60625.770000000004,2023,322211,0.49,False,False,29.7066273,Spend-based,Secondary
+PO-00035,Alpha_Inc,2023-03-09,2023-03-17,MRO,Delivered,71,46.39,43.18,0.0,Yes,43.18,3065.78,2023,333999,0.26,False,False,0.7971028000000001,Spend-based,Secondary
+PO-00036,Epsilon_Group,2022-12-15,2022-12-23,Office Supplies,Delivered,302,87.73,81.52,9.0,Yes,81.52,24619.039999999997,2022,453210,0.163,False,False,4.01290352,Spend-based,Secondary
+PO-00039,Epsilon_Group,2022-08-09,2022-08-23,Office Supplies,Delivered,1634,80.53,76.15,50.0,Yes,76.15,124429.1,2022,453210,0.163,False,False,20.281943300000002,Spend-based,Secondary
+PO-00040,Epsilon_Group,2022-12-11,,Office Supplies,Delivered,524,46.28,39.65,14.0,Yes,39.65,20776.6,2022,453210,0.163,False,False,3.3865857999999998,Spend-based,Secondary
+PO-00041,Beta_Supplies,2022-04-15,2022-04-27,Electronics,Delivered,1132,17.78,15.36,96.0,Yes,15.36,17387.52,2022,334111,0.112,False,False,1.9474022400000002,Spend-based,Secondary
+PO-00042,Beta_Supplies,2022-04-05,2022-04-14,Office Supplies,Delivered,560,81.14,77.87,34.0,No,77.87,43607.200000000004,2022,453210,0.163,False,False,7.107973600000001,Spend-based,Secondary
+PO-00043,Gamma_Co,2023-01-25,2023-02-02,Electronics,Delivered,1755,63.87,58.4,85.0,Yes,58.4,102492.0,2023,334111,0.112,False,False,11.479104,Spend-based,Secondary
+PO-00044,Epsilon_Group,2022-04-10,2022-04-17,MRO,Delivered,1549,48.9,42.42,48.0,Yes,42.42,65708.58,2022,333999,0.26,False,False,17.0842308,Spend-based,Secondary
+PO-00045,Delta_Logistics,2023-01-03,2023-01-21,MRO,Delivered,749,97.07,94.16,123.0,Yes,94.16,70525.84,2023,333999,0.26,False,False,18.3367184,Spend-based,Secondary
+PO-00046,Alpha_Inc,2022-12-19,,Electronics,Delivered,1025,21.11,19.25,15.0,Yes,19.25,19731.25,2022,334111,0.112,False,False,2.2099,Spend-based,Secondary
+PO-00047,Beta_Supplies,2023-09-11,2023-09-18,Raw Materials,Delivered,1856,59.77,50.81,191.0,Yes,50.81,94303.36,2023,325199,1.51,False,False,142.3980736,Spend-based,Secondary
+PO-00048,Epsilon_Group,2022-09-28,2022-10-14,Office Supplies,Delivered,239,11.46,11.28,4.0,Yes,11.28,2695.92,2022,453210,0.163,False,False,0.43943496000000004,Spend-based,Secondary
+PO-00051,Epsilon_Group,2023-07-04,2023-07-14,Electronics,Delivered,1007,22.56,19.59,,Yes,19.59,19727.13,2023,334111,0.112,False,False,2.20943856,Spend-based,Secondary
+PO-00052,Delta_Logistics,2022-05-08,,Office Supplies,Delivered,612,20.99,19.75,102.0,Yes,19.75,12087.0,2022,453210,0.163,False,False,1.970181,Spend-based,Secondary
+PO-00055,Beta_Supplies,2023-07-20,2023-08-07,Electronics,Delivered,1317,68.13,60.52,136.0,Yes,60.52,79704.84000000001,2023,334111,0.112,False,False,8.92694208,Spend-based,Secondary
+PO-00056,Epsilon_Group,2022-10-28,2022-10-30,Raw Materials,Delivered,881,100.94,95.05,30.0,Yes,95.05,83739.05,2022,325199,1.51,False,False,126.4459655,Spend-based,Secondary
+PO-00057,Delta_Logistics,2023-10-06,,Packaging,Delivered,1578,48.33,42.77,206.0,Yes,42.77,67491.06,2023,322211,0.49,False,False,33.0706194,Spend-based,Secondary
+PO-00058,Delta_Logistics,2023-09-26,2023-10-01,MRO,Delivered,1204,39.29,35.44,,Yes,35.44,42669.759999999995,2023,333999,0.26,False,False,11.094137599999998,Spend-based,Secondary
+PO-00060,Alpha_Inc,2023-08-15,2023-08-16,Packaging,Delivered,1892,32.99,28.81,35.0,Yes,28.81,54508.52,2023,322211,0.49,False,False,26.709174799999996,Spend-based,Secondary
+PO-00061,Epsilon_Group,2022-07-16,2022-08-01,Packaging,Delivered,696,99.59,90.18,25.0,Yes,90.18,62765.280000000006,2022,322211,0.49,False,False,30.754987200000002,Spend-based,Secondary
+PO-00062,Delta_Logistics,2023-12-23,2024-01-03,MRO,Partially Delivered,70,12.37,11.04,10.0,Yes,11.04,772.8,2023,333999,0.26,False,False,0.200928,Spend-based,Secondary
+PO-00063,Gamma_Co,2022-03-13,2022-03-15,Raw Materials,Delivered,890,98.26,93.14,49.0,Yes,93.14,82894.6,2022,325199,1.51,False,False,125.17084600000001,Spend-based,Secondary
+PO-00064,Alpha_Inc,2022-02-16,2022-03-04,MRO,Delivered,216,13.95,12.31,5.0,Yes,12.31,2658.96,2022,333999,0.26,False,False,0.6913296,Spend-based,Secondary
+PO-00065,Delta_Logistics,2023-11-09,2023-11-12,Packaging,Delivered,1347,100.13,94.3,200.0,Yes,94.3,127022.09999999999,2023,322211,0.49,False,False,62.240829,Spend-based,Secondary
+PO-00066,Gamma_Co,2022-08-22,2022-08-25,Office Supplies,Partially Delivered,437,59.51,56.45,25.0,No,56.45,24668.65,2022,453210,0.163,False,False,4.020989950000001,Spend-based,Secondary
+PO-00067,Alpha_Inc,2022-10-24,2022-10-26,Electronics,Delivered,650,103.84,88.28,12.0,Yes,88.28,57382.0,2022,334111,0.112,False,False,6.4267840000000005,Spend-based,Secondary
+PO-00068,Beta_Supplies,2022-03-23,2022-04-11,Office Supplies,Delivered,365,16.81,15.41,38.0,Yes,15.41,5624.65,2022,453210,0.163,False,False,0.91681795,Spend-based,Secondary
+PO-00070,Alpha_Inc,2022-04-14,2022-04-22,MRO,Delivered,291,98.7,87.02,9.0,Yes,87.02,25322.82,2022,333999,0.26,False,False,6.583933200000001,Spend-based,Secondary
+PO-00073,Gamma_Co,2023-04-10,2023-04-27,Office Supplies,Delivered,614,78.06,73.95,40.0,Yes,73.95,45405.3,2023,453210,0.163,False,False,7.401063900000001,Spend-based,Secondary
+PO-00074,Alpha_Inc,2023-10-13,2023-10-28,Electronics,Delivered,947,56.25,54.25,19.0,Yes,54.25,51374.75,2023,334111,0.112,False,False,5.753972,Spend-based,Secondary
+PO-00075,Epsilon_Group,2023-01-09,2023-01-28,Raw Materials,Delivered,1413,70.47,69.65,,Yes,69.65,98415.45000000001,2023,325199,1.51,False,False,148.60732950000002,Spend-based,Secondary
+PO-00076,Alpha_Inc,2022-06-16,,Office Supplies,Partially Delivered,141,64.15,58.32,,Yes,58.32,8223.12,2022,453210,0.163,False,False,1.3403685600000002,Spend-based,Secondary
+PO-00077,Alpha_Inc,2023-01-15,2023-02-04,Office Supplies,Delivered,1440,96.57,83.87,36.0,Yes,83.87,120772.8,2023,453210,0.163,False,False,19.6859664,Spend-based,Secondary
+PO-00078,Delta_Logistics,2022-12-30,2023-01-03,Raw Materials,Delivered,1005,14.87,12.79,,No,12.79,12853.949999999999,2022,325199,1.51,False,False,19.4094645,Spend-based,Secondary
+PO-00079,Alpha_Inc,2022-08-03,,MRO,Delivered,1528,36.52,33.0,31.0,No,33.0,50424.0,2022,333999,0.26,False,False,13.11024,Spend-based,Secondary
+PO-00080,Gamma_Co,2023-11-18,2023-11-25,MRO,Delivered,1501,106.05,100.99,77.0,No,100.99,151585.99,2023,333999,0.26,False,False,39.4123574,Spend-based,Secondary
+PO-00081,Delta_Logistics,2022-10-01,2022-10-04,Packaging,Delivered,558,94.18,81.4,,No,81.4,45421.200000000004,2022,322211,0.49,False,False,22.256388,Spend-based,Secondary
+PO-00082,Beta_Supplies,2023-12-20,2023-12-26,MRO,Delivered,825,56.88,50.84,,Yes,50.84,41943.0,2023,333999,0.26,False,False,10.90518,Spend-based,Secondary
+PO-00084,Delta_Logistics,2023-10-26,2023-11-10,Raw Materials,Delivered,255,38.64,33.59,27.0,No,33.59,8565.45,2023,325199,1.51,False,False,12.933829500000002,Spend-based,Secondary
+PO-00085,Gamma_Co,2022-03-15,2022-03-31,MRO,Delivered,1154,27.2,26.07,58.0,Yes,26.07,30084.78,2022,333999,0.26,False,False,7.8220428,Spend-based,Secondary
+PO-00086,Delta_Logistics,2023-09-16,2023-09-24,Office Supplies,Delivered,1635,56.91,54.37,262.0,No,54.37,88894.95,2023,453210,0.163,False,False,14.48987685,Spend-based,Secondary
+PO-00087,Delta_Logistics,2023-10-13,2023-10-23,Raw Materials,Delivered,1945,46.19,40.12,278.0,No,40.12,78033.4,2023,325199,1.51,False,False,117.830434,Spend-based,Secondary
+PO-00088,Delta_Logistics,2022-06-25,2022-07-10,MRO,Partially Delivered,1461,64.09,63.39,228.0,No,63.39,92612.79,2022,333999,0.26,False,False,24.0793254,Spend-based,Secondary
+PO-00089,Delta_Logistics,2023-07-01,2023-07-09,Electronics,Delivered,1075,18.53,16.12,147.0,Yes,16.12,17329.0,2023,334111,0.112,False,False,1.940848,Spend-based,Secondary
+PO-00090,Alpha_Inc,2022-09-08,,Packaging,Delivered,1071,101.6,93.91,25.0,Yes,93.91,100577.61,2022,322211,0.49,False,False,49.2830289,Spend-based,Secondary
+PO-00092,Beta_Supplies,2023-04-19,2023-04-26,Raw Materials,Delivered,615,78.3,73.68,69.0,Yes,73.68,45313.200000000004,2023,325199,1.51,False,False,68.422932,Spend-based,Secondary
+PO-00093,Gamma_Co,2023-01-24,2023-02-11,Electronics,Delivered,1179,61.74,56.28,,Yes,56.28,66354.12,2023,334111,0.112,False,False,7.43166144,Spend-based,Secondary
+PO-00094,Alpha_Inc,2022-10-04,2022-10-09,Electronics,Partially Delivered,1845,39.56,37.63,45.0,Yes,37.63,69427.35,2022,334111,0.112,False,False,7.775863200000001,Spend-based,Secondary
+PO-00096,Epsilon_Group,2023-12-06,2023-12-09,MRO,Partially Delivered,1550,79.86,69.57,32.0,No,69.57,107833.49999999999,2023,333999,0.26,False,False,28.036709999999996,Spend-based,Secondary
+PO-00097,Delta_Logistics,2023-07-25,2023-08-04,Packaging,Delivered,752,26.85,24.37,,No,24.37,18326.24,2023,322211,0.49,False,False,8.9798576,Spend-based,Secondary
+PO-00098,Epsilon_Group,2022-08-13,2022-09-01,Electronics,Delivered,451,95.2,90.07,21.0,Yes,90.07,40621.57,2022,334111,0.112,False,False,4.54961584,Spend-based,Secondary
+PO-00099,Beta_Supplies,2023-12-03,,Office Supplies,Delivered,779,93.69,90.92,66.0,Yes,90.92,70826.68000000001,2023,453210,0.163,False,False,11.544748840000002,Spend-based,Secondary
+PO-00101,Alpha_Inc,2022-02-27,2022-02-22,Office Supplies,Delivered,211,75.69,65.4,2.0,Yes,65.4,13799.400000000001,2022,453210,0.163,False,False,2.2493022000000007,Spend-based,Secondary
+PO-00102,Alpha_Inc,2022-08-23,,Office Supplies,Delivered,251,67.49,64.48,2.0,Yes,64.48,16184.480000000001,2022,453210,0.163,False,False,2.6380702400000007,Spend-based,Secondary
+PO-00103,Gamma_Co,2022-02-02,2022-02-18,Raw Materials,Delivered,1045,47.88,44.65,69.0,Yes,44.65,46659.25,2022,325199,1.51,False,False,70.4554675,Spend-based,Secondary
+PO-00104,Delta_Logistics,2022-11-20,2022-12-10,MRO,Delivered,319,98.64,89.15,57.0,Yes,89.15,28438.850000000002,2022,333999,0.26,False,False,7.394101000000001,Spend-based,Secondary
+PO-00105,Epsilon_Group,2023-02-15,2023-03-01,Office Supplies,Partially Delivered,1936,93.66,92.24,58.0,Yes,92.24,178576.63999999998,2023,453210,0.163,False,False,29.107992319999997,Spend-based,Secondary
+PO-00107,Epsilon_Group,2022-03-09,2022-03-12,Electronics,Delivered,1344,12.5,10.87,44.0,Yes,10.87,14609.279999999999,2022,334111,0.112,False,False,1.6362393599999998,Spend-based,Secondary
+PO-00109,Beta_Supplies,2023-08-04,2023-08-05,Packaging,Delivered,1535,90.83,78.28,151.0,No,78.28,120159.8,2023,322211,0.49,False,False,58.878302000000005,Spend-based,Secondary
+PO-00110,Beta_Supplies,2022-11-19,,Office Supplies,Delivered,1800,103.8,96.27,166.0,Yes,96.27,173286.0,2022,453210,0.163,False,False,28.245618000000004,Spend-based,Secondary
+PO-00112,Gamma_Co,2023-11-03,2023-11-09,Raw Materials,Delivered,1066,70.45,65.88,56.0,No,65.88,70228.08,2023,325199,1.51,False,False,106.0444008,Spend-based,Secondary
+PO-00113,Beta_Supplies,2023-05-27,2023-06-11,Raw Materials,Delivered,1775,47.82,45.86,180.0,Yes,45.86,81401.5,2023,325199,1.51,False,False,122.916265,Spend-based,Secondary
+PO-00114,Gamma_Co,2023-02-10,,Raw Materials,Partially Delivered,345,103.62,98.09,25.0,No,98.09,33841.05,2023,325199,1.51,False,False,51.0999855,Spend-based,Secondary
+PO-00115,Beta_Supplies,2023-10-21,2023-11-09,Electronics,Delivered,1798,94.8,91.83,,Yes,91.83,165110.34,2023,334111,0.112,False,False,18.492358080000002,Spend-based,Secondary
+PO-00116,Alpha_Inc,2023-04-15,2023-05-01,MRO,Delivered,769,91.86,86.55,17.0,Yes,86.55,66556.95,2023,333999,0.26,False,False,17.304807,Spend-based,Secondary
+PO-00117,Alpha_Inc,2022-05-27,,Packaging,Delivered,1822,53.23,47.49,39.0,Yes,47.49,86526.78,2022,322211,0.49,False,False,42.398122199999996,Spend-based,Secondary
+PO-00118,Delta_Logistics,2022-09-29,2022-10-13,Packaging,Delivered,387,49.23,45.41,61.0,Yes,45.41,17573.67,2022,322211,0.49,False,False,8.6110983,Spend-based,Secondary
+PO-00119,Epsilon_Group,2022-05-23,2022-05-27,MRO,Delivered,928,35.3,32.52,26.0,Yes,32.52,30178.56,2022,333999,0.26,False,False,7.846425600000001,Spend-based,Secondary
+PO-00120,Alpha_Inc,2022-09-10,2022-09-21,Packaging,Partially Delivered,1126,15.68,14.97,27.0,Yes,14.97,16856.22,2022,322211,0.49,False,False,8.2595478,Spend-based,Secondary
+PO-00122,Beta_Supplies,2023-07-06,2023-07-19,Electronics,Delivered,1995,90.65,77.75,206.0,Yes,77.75,155111.25,2023,334111,0.112,False,False,17.37246,Spend-based,Secondary
+PO-00123,Alpha_Inc,2022-09-27,2022-10-15,Raw Materials,Delivered,266,103.97,101.44,6.0,Yes,101.44,26983.04,2022,325199,1.51,False,False,40.7443904,Spend-based,Secondary
+PO-00125,Epsilon_Group,2023-03-15,2023-03-26,Electronics,Delivered,237,64.19,59.01,7.0,Yes,59.01,13985.369999999999,2023,334111,0.112,False,False,1.5663614399999999,Spend-based,Secondary
+PO-00127,Delta_Logistics,2023-02-13,2023-02-14,Packaging,Delivered,542,101.21,93.11,78.0,No,93.11,50465.62,2023,322211,0.49,False,False,24.7281538,Spend-based,Secondary
+PO-00128,Epsilon_Group,2023-01-06,2023-01-24,Electronics,Delivered,1114,91.66,85.53,35.0,Yes,85.53,95280.42,2023,334111,0.112,False,False,10.67140704,Spend-based,Secondary
+PO-00129,Alpha_Inc,2022-08-13,2022-08-15,MRO,Delivered,1230,33.39,30.85,26.0,Yes,30.85,37945.5,2022,333999,0.26,False,False,9.86583,Spend-based,Secondary
+PO-00130,Beta_Supplies,2022-05-22,2022-06-03,MRO,Delivered,64,51.56,50.88,5.0,Yes,50.88,3256.32,2022,333999,0.26,False,False,0.8466432,Spend-based,Secondary
+PO-00131,Alpha_Inc,2023-06-06,2023-06-22,MRO,Delivered,1886,23.46,23.18,,Yes,23.18,43717.479999999996,2023,333999,0.26,False,False,11.3665448,Spend-based,Secondary
+PO-00132,Delta_Logistics,2023-05-21,2023-05-23,Office Supplies,Delivered,114,103.53,101.54,14.0,Yes,101.54,11575.560000000001,2023,453210,0.163,False,False,1.8868162800000001,Spend-based,Secondary
+PO-00135,Epsilon_Group,2022-04-23,2022-05-09,MRO,Delivered,570,71.51,66.47,,Yes,66.47,37887.9,2022,333999,0.26,False,False,9.850854000000002,Spend-based,Secondary
+PO-00136,Beta_Supplies,2022-06-06,2022-06-26,Raw Materials,Delivered,1417,67.27,60.62,,Yes,60.62,85898.54,2022,325199,1.51,False,False,129.70679539999998,Spend-based,Secondary
+PO-00137,Alpha_Inc,2023-10-05,2023-10-11,Raw Materials,Delivered,1202,46.67,44.13,21.0,No,44.13,53044.26,2023,325199,1.51,False,False,80.09683260000001,Spend-based,Secondary
+PO-00138,Beta_Supplies,2022-06-13,2022-06-14,Office Supplies,Delivered,697,20.73,19.83,78.0,No,19.83,13821.509999999998,2022,453210,0.163,False,False,2.25290613,Spend-based,Secondary
+PO-00139,Epsilon_Group,2023-11-28,2023-12-01,MRO,Delivered,1545,78.19,76.91,42.0,Yes,76.91,118825.95,2023,333999,0.26,False,False,30.894747,Spend-based,Secondary
+PO-00140,Gamma_Co,2023-03-09,2023-03-13,MRO,Partially Delivered,1136,60.81,58.25,62.0,Yes,58.25,66172.0,2023,333999,0.26,False,False,17.204720000000002,Spend-based,Secondary
+PO-00141,Beta_Supplies,2023-09-03,2023-09-07,MRO,Delivered,1212,87.46,74.55,118.0,No,74.55,90354.59999999999,2023,333999,0.26,False,False,23.492196,Spend-based,Secondary
+PO-00142,Epsilon_Group,2022-03-07,2022-03-12,MRO,Delivered,1572,57.38,49.32,40.0,Yes,49.32,77531.04,2022,333999,0.26,False,False,20.1580704,Spend-based,Secondary
+PO-00143,Gamma_Co,2023-01-30,2023-02-09,Electronics,Delivered,642,91.9,81.49,26.0,Yes,81.49,52316.579999999994,2023,334111,0.112,False,False,5.859456959999999,Spend-based,Secondary
+PO-00144,Epsilon_Group,2023-01-26,2023-02-04,Office Supplies,Delivered,441,63.25,54.12,16.0,Yes,54.12,23866.92,2023,453210,0.163,False,False,3.8903079599999995,Spend-based,Secondary
+PO-00145,Epsilon_Group,2023-09-03,2023-09-19,Office Supplies,Delivered,1748,66.53,57.11,,Yes,57.11,99828.28,2023,453210,0.163,False,False,16.27200964,Spend-based,Secondary
+PO-00147,Beta_Supplies,2023-06-26,2023-07-14,Raw Materials,Delivered,338,50.25,46.28,49.0,No,46.28,15642.640000000001,2023,325199,1.51,False,False,23.620386400000005,Spend-based,Secondary
+PO-00148,Gamma_Co,2022-09-15,2022-09-22,Office Supplies,Delivered,428,22.94,21.52,26.0,Yes,21.52,9210.56,2022,453210,0.163,False,False,1.50132128,Spend-based,Secondary
+PO-00149,Beta_Supplies,2023-07-21,,Packaging,Delivered,1846,13.72,12.62,216.0,Yes,12.62,23296.519999999997,2023,322211,0.49,False,False,11.415294799999998,Spend-based,Secondary
+PO-00150,Epsilon_Group,2022-01-12,2022-01-17,Office Supplies,Delivered,1563,77.96,70.8,41.0,Yes,70.8,110660.4,2022,453210,0.163,False,False,18.0376452,Spend-based,Secondary
+PO-00151,Beta_Supplies,2023-11-28,2023-12-07,Office Supplies,Delivered,280,73.07,69.29,30.0,Yes,69.29,19401.2,2023,453210,0.163,False,False,3.1623956000000004,Spend-based,Secondary
+PO-00152,Delta_Logistics,2022-04-28,2022-05-12,Raw Materials,Delivered,1067,74.47,64.16,,No,64.16,68458.72,2022,325199,1.51,False,False,103.3726672,Spend-based,Secondary
+PO-00154,Gamma_Co,2023-07-04,2023-07-05,Raw Materials,Delivered,1101,24.28,22.73,59.0,No,22.73,25025.73,2023,325199,1.51,False,False,37.7888523,Spend-based,Secondary
+PO-00155,Alpha_Inc,2022-10-01,2022-10-11,Raw Materials,Delivered,184,11.82,10.51,4.0,Yes,10.51,1933.84,2022,325199,1.51,False,False,2.9200983999999996,Spend-based,Secondary
+PO-00156,Epsilon_Group,2023-10-19,2023-11-07,Electronics,Delivered,250,45.92,41.02,3.0,Yes,41.02,10255.0,2023,334111,0.112,False,False,1.14856,Spend-based,Secondary
+PO-00158,Beta_Supplies,2022-04-25,2022-04-30,Electronics,Delivered,829,45.98,40.39,,Yes,40.39,33483.31,2022,334111,0.112,False,False,3.7501307199999996,Spend-based,Secondary
+PO-00159,Delta_Logistics,2022-10-28,2022-11-13,Raw Materials,Delivered,979,51.59,49.69,148.0,Yes,49.69,48646.509999999995,2022,325199,1.51,False,False,73.45623009999998,Spend-based,Secondary
+PO-00160,Epsilon_Group,2023-03-22,2023-04-09,Electronics,Partially Delivered,1106,97.77,90.45,31.0,Yes,90.45,100037.7,2023,334111,0.112,False,False,11.2042224,Spend-based,Secondary
+PO-00162,Alpha_Inc,2023-04-10,2023-04-21,Office Supplies,Delivered,552,60.48,56.78,10.0,Yes,56.78,31342.56,2023,453210,0.163,False,False,5.10883728,Spend-based,Secondary
+PO-00163,Gamma_Co,2022-01-04,2022-01-12,Packaging,Delivered,456,80.53,77.86,26.0,Yes,77.86,35504.159999999996,2022,322211,0.49,False,False,17.397038399999996,Spend-based,Secondary
+PO-00164,Delta_Logistics,2022-09-27,2022-10-05,Packaging,Delivered,1647,47.52,44.92,,Yes,44.92,73983.24,2022,322211,0.49,False,False,36.2517876,Spend-based,Secondary
+PO-00166,Gamma_Co,2022-07-02,2022-07-18,Electronics,Delivered,854,90.24,85.53,,Yes,85.53,73042.62,2022,334111,0.112,False,False,8.18077344,Spend-based,Secondary
+PO-00167,Delta_Logistics,2023-06-04,2023-06-17,Electronics,Delivered,148,103.57,98.62,23.0,No,98.62,14595.76,2023,334111,0.112,False,False,1.6347251200000001,Spend-based,Secondary
+PO-00168,Delta_Logistics,2022-04-19,2022-04-24,MRO,Delivered,733,23.59,22.85,92.0,Yes,22.85,16749.05,2022,333999,0.26,False,False,4.354753,Spend-based,Secondary
+PO-00169,Beta_Supplies,2023-10-03,2023-10-05,Raw Materials,Delivered,1945,103.2,88.56,,Yes,88.56,172249.2,2023,325199,1.51,False,False,260.096292,Spend-based,Secondary
+PO-00170,Gamma_Co,2022-11-02,2022-11-21,Raw Materials,Delivered,775,57.0,49.14,48.0,Yes,49.14,38083.5,2022,325199,1.51,False,False,57.506085,Spend-based,Secondary
+PO-00171,Delta_Logistics,2023-10-17,2023-10-21,Packaging,Delivered,1620,36.73,33.45,235.0,No,33.45,54189.00000000001,2023,322211,0.49,False,False,26.552610000000005,Spend-based,Secondary
+PO-00172,Beta_Supplies,2023-06-04,2023-06-19,Office Supplies,Delivered,1010,55.68,50.86,,Yes,50.86,51368.6,2023,453210,0.163,False,False,8.3730818,Spend-based,Secondary
+PO-00173,Epsilon_Group,2023-09-16,2023-10-01,Office Supplies,Delivered,1812,108.02,101.02,51.0,Yes,101.02,183048.24,2023,453210,0.163,False,False,29.836863119999997,Spend-based,Secondary
+PO-00174,Delta_Logistics,2022-07-23,2022-07-28,Office Supplies,Delivered,662,55.97,50.0,100.0,Yes,50.0,33100.0,2022,453210,0.163,False,False,5.3953,Spend-based,Secondary
+PO-00176,Beta_Supplies,2023-01-18,2023-01-27,Raw Materials,Delivered,692,71.03,67.74,70.0,Yes,67.74,46876.079999999994,2023,325199,1.51,False,False,70.7828808,Spend-based,Secondary
+PO-00177,Gamma_Co,2022-06-15,2022-06-28,MRO,Delivered,1842,32.4,28.08,96.0,Yes,28.08,51723.35999999999,2022,333999,0.26,False,False,13.448073599999997,Spend-based,Secondary
+PO-00179,Delta_Logistics,2023-06-28,2023-07-16,Packaging,Delivered,1291,23.44,22.23,,Yes,22.23,28698.93,2023,322211,0.49,False,False,14.062475699999998,Spend-based,Secondary
+PO-00180,Alpha_Inc,2022-01-01,2022-01-12,Electronics,Delivered,552,21.52,18.79,13.0,Yes,18.79,10372.08,2022,334111,0.112,False,False,1.1616729600000002,Spend-based,Secondary
+PO-00181,Epsilon_Group,2023-09-06,2023-09-22,Electronics,Delivered,816,26.04,25.61,28.0,Yes,25.61,20897.76,2023,334111,0.112,False,False,2.3405491199999995,Spend-based,Secondary
+PO-00182,Delta_Logistics,2022-11-28,2022-11-30,Packaging,Delivered,447,23.62,21.81,50.0,Yes,21.81,9749.07,2022,322211,0.49,False,False,4.777044299999999,Spend-based,Secondary
+PO-00183,Delta_Logistics,2023-05-16,2023-05-24,Packaging,Partially Delivered,920,73.09,70.14,,Yes,70.14,64528.8,2023,322211,0.49,False,False,31.619112,Spend-based,Secondary
+PO-00184,Epsilon_Group,2022-01-20,2022-01-30,Packaging,Partially Delivered,844,26.37,25.08,38.0,Yes,25.08,21167.519999999997,2022,322211,0.49,False,False,10.372084799999998,Spend-based,Secondary
+PO-00185,Epsilon_Group,2022-04-25,,MRO,Delivered,442,41.73,36.45,15.0,Yes,36.45,16110.900000000001,2022,333999,0.26,False,False,4.188834000000001,Spend-based,Secondary
+PO-00187,Delta_Logistics,2022-11-11,,MRO,Partially Delivered,1088,55.29,53.04,161.0,No,53.04,57707.52,2022,333999,0.26,False,False,15.0039552,Spend-based,Secondary
+PO-00188,Beta_Supplies,2022-09-03,2022-09-07,Office Supplies,Delivered,1931,72.88,64.69,187.0,Yes,64.69,124916.39,2022,453210,0.163,False,False,20.36137157,Spend-based,Secondary
+PO-00189,Gamma_Co,2022-03-01,2022-03-11,Electronics,Delivered,1627,25.76,25.09,74.0,Yes,25.09,40821.43,2022,334111,0.112,False,False,4.572000160000001,Spend-based,Secondary
+PO-00190,Beta_Supplies,2022-09-04,,Packaging,Delivered,941,28.4,27.21,,No,27.21,25604.61,2022,322211,0.49,False,False,12.546258900000002,Spend-based,Secondary
+PO-00191,Gamma_Co,2023-08-04,2023-08-06,MRO,Delivered,1534,14.98,12.79,,Yes,12.79,19619.859999999997,2023,333999,0.26,False,False,5.101163599999999,Spend-based,Secondary
+PO-00192,Alpha_Inc,2022-03-22,2022-04-03,Raw Materials,Delivered,1764,25.46,24.52,46.0,Yes,24.52,43253.28,2022,325199,1.51,False,False,65.3124528,Spend-based,Secondary
+PO-00193,Delta_Logistics,2022-03-29,2022-04-06,Electronics,Delivered,1648,35.42,31.46,,No,31.46,51846.08,2022,334111,0.112,False,False,5.80676096,Spend-based,Secondary
+PO-00194,Gamma_Co,2023-05-13,2023-06-01,Packaging,Delivered,913,28.01,24.06,53.0,Yes,24.06,21966.78,2023,322211,0.49,False,False,10.763722199999998,Spend-based,Secondary
+PO-00196,Epsilon_Group,2023-06-30,2023-07-03,Office Supplies,Partially Delivered,1314,22.63,21.06,44.0,Yes,21.06,27672.839999999997,2023,453210,0.163,False,False,4.51067292,Spend-based,Secondary
+PO-00197,Beta_Supplies,2022-05-09,2022-05-22,MRO,Delivered,613,52.5,45.19,70.0,Yes,45.19,27701.469999999998,2022,333999,0.26,False,False,7.2023822,Spend-based,Secondary
+PO-00198,Alpha_Inc,2022-05-12,2022-05-20,Office Supplies,Delivered,1070,29.14,26.63,24.0,Yes,26.63,28494.1,2022,453210,0.163,False,False,4.6445383,Spend-based,Secondary
+PO-00199,Gamma_Co,2023-11-07,2023-11-26,Raw Materials,Partially Delivered,145,47.49,42.76,6.0,Yes,42.76,6200.2,2023,325199,1.51,False,False,9.362302,Spend-based,Secondary
+PO-00200,Delta_Logistics,2023-05-02,2023-05-17,Raw Materials,Delivered,1973,59.73,54.95,291.0,Yes,54.95,108416.35,2023,325199,1.51,False,False,163.70868850000002,Spend-based,Secondary
+PO-00201,Epsilon_Group,2023-07-17,2023-08-01,Office Supplies,Delivered,1807,78.63,73.08,100.0,Yes,73.08,132055.56,2023,453210,0.163,False,False,21.52505628,Spend-based,Secondary
+PO-00202,Epsilon_Group,2022-06-19,2022-06-20,Electronics,Delivered,534,13.88,12.51,100.0,Yes,12.51,6680.34,2022,334111,0.112,False,False,0.74819808,Spend-based,Secondary
+PO-00203,Alpha_Inc,2022-09-29,2022-10-14,Electronics,Delivered,1480,85.22,75.48,100.0,Yes,75.48,111710.40000000001,2022,334111,0.112,False,False,12.511564800000002,Spend-based,Secondary
+PO-00204,Alpha_Inc,2023-06-25,,Office Supplies,Delivered,280,72.16,62.38,100.0,Yes,62.38,17466.4,2023,453210,0.163,False,False,2.8470232000000006,Spend-based,Secondary
+PO-00206,Epsilon_Group,2023-03-10,2023-03-22,Electronics,Delivered,1728,94.83,90.2,100.0,Yes,90.2,155865.6,2023,334111,0.112,False,False,17.456947200000002,Spend-based,Secondary
+PO-00207,Epsilon_Group,2022-08-05,,MRO,Delivered,1244,96.13,84.78,43.0,Yes,84.78,105466.32,2022,333999,0.26,False,False,27.421243200000003,Spend-based,Secondary
+PO-00208,Beta_Supplies,2023-07-07,2023-07-21,Office Supplies,Delivered,590,16.89,15.56,46.0,No,15.56,9180.4,2023,453210,0.163,False,False,1.4964051999999999,Spend-based,Secondary
+PO-00209,Delta_Logistics,2023-12-08,2023-12-23,Packaging,Delivered,1109,38.93,33.33,152.0,Yes,33.33,36962.97,2023,322211,0.49,False,False,18.1118553,Spend-based,Secondary
+PO-00210,Beta_Supplies,2022-07-25,2022-08-01,MRO,Delivered,574,85.03,82.55,54.0,Yes,82.55,47383.7,2022,333999,0.26,False,False,12.319761999999999,Spend-based,Secondary
+PO-00211,Gamma_Co,2024-01-01,,Office Supplies,Delivered,1233,86.62,76.59,65.0,Yes,76.59,94435.47,2024,453210,0.163,False,False,15.392981610000001,Spend-based,Secondary
+PO-00212,Gamma_Co,2022-11-16,2022-11-20,Packaging,Delivered,1912,27.94,25.59,83.0,No,25.59,48928.08,2022,322211,0.49,False,False,23.9747592,Spend-based,Secondary
+PO-00213,Alpha_Inc,2023-02-13,2023-03-04,Packaging,Delivered,1772,30.72,27.76,46.0,No,27.76,49190.72,2023,322211,0.49,False,False,24.1034528,Spend-based,Secondary
+PO-00214,Beta_Supplies,2023-11-19,2023-11-29,Office Supplies,Delivered,1316,48.11,41.9,135.0,Yes,41.9,55140.4,2023,453210,0.163,False,False,8.987885200000001,Spend-based,Secondary
+PO-00215,Beta_Supplies,2023-10-28,,Office Supplies,Delivered,1159,59.24,58.08,,Yes,58.08,67314.72,2023,453210,0.163,False,False,10.972299360000001,Spend-based,Secondary
+PO-00216,Alpha_Inc,2023-01-18,2023-01-31,Office Supplies,Delivered,1869,69.58,67.5,31.0,Yes,67.5,126157.5,2023,453210,0.163,False,False,20.5636725,Spend-based,Secondary
+PO-00217,Delta_Logistics,2023-03-25,2023-04-13,Packaging,Delivered,627,46.23,42.87,,Yes,42.87,26879.489999999998,2023,322211,0.49,False,False,13.170950099999999,Spend-based,Secondary
+PO-00220,Beta_Supplies,2022-05-04,2022-05-14,Office Supplies,Delivered,1647,13.57,12.33,157.0,Yes,12.33,20307.51,2022,453210,0.163,False,False,3.3101241299999997,Spend-based,Secondary
+PO-00221,Delta_Logistics,2022-09-11,2022-09-19,MRO,Delivered,1062,34.03,30.46,,Yes,30.46,32348.52,2022,333999,0.26,False,False,8.4106152,Spend-based,Secondary
+PO-00222,Beta_Supplies,2022-08-19,2022-08-31,Office Supplies,Delivered,695,76.8,69.76,,No,69.76,48483.200000000004,2022,453210,0.163,False,False,7.902761600000001,Spend-based,Secondary
+PO-00223,Epsilon_Group,2022-03-07,2022-03-14,MRO,Delivered,845,91.47,86.97,,Yes,86.97,73489.65,2022,333999,0.26,False,False,19.107308999999997,Spend-based,Secondary
+PO-00224,Gamma_Co,2022-12-13,2022-12-18,MRO,Delivered,1101,59.13,52.51,54.0,Yes,52.51,57813.509999999995,2022,333999,0.26,False,False,15.0315126,Spend-based,Secondary
+PO-00225,Gamma_Co,2022-01-22,2022-01-24,Raw Materials,Delivered,1693,57.89,49.84,88.0,Yes,49.84,84379.12000000001,2022,325199,1.51,False,False,127.41247120000001,Spend-based,Secondary
+PO-00227,Delta_Logistics,2023-07-22,2023-08-03,Raw Materials,Delivered,1413,54.79,50.42,,Yes,50.42,71243.46,2023,325199,1.51,False,False,107.57762460000001,Spend-based,Secondary
+PO-00228,Epsilon_Group,2022-08-24,2022-08-27,Packaging,Delivered,1871,59.96,58.54,47.0,Yes,58.54,109528.34,2022,322211,0.49,False,False,53.6688866,Spend-based,Secondary
+PO-00229,Gamma_Co,2023-08-26,,Raw Materials,Delivered,1404,34.85,30.5,78.0,Yes,30.5,42822.0,2023,325199,1.51,False,False,64.66122,Spend-based,Secondary
+PO-00230,Gamma_Co,2022-08-14,2022-08-28,Electronics,Delivered,1713,35.43,34.11,74.0,Yes,34.11,58430.43,2022,334111,0.112,False,False,6.54420816,Spend-based,Secondary
+PO-00231,Gamma_Co,2022-01-08,2022-01-13,Electronics,Delivered,1579,43.96,43.41,74.0,Yes,43.41,68544.39,2022,334111,0.112,False,False,7.676971679999999,Spend-based,Secondary
+PO-00232,Gamma_Co,2022-03-14,2022-03-26,Electronics,Delivered,1421,11.92,11.72,76.0,Yes,11.72,16654.120000000003,2022,334111,0.112,False,False,1.8652614400000003,Spend-based,Secondary
+PO-00233,Epsilon_Group,2023-12-26,2024-01-04,MRO,Delivered,1546,43.47,37.37,53.0,Yes,37.37,57774.02,2023,333999,0.26,False,False,15.0212452,Spend-based,Secondary
+PO-00234,Delta_Logistics,2023-10-09,2023-10-18,Electronics,Delivered,1304,32.08,29.36,,Yes,29.36,38285.44,2023,334111,0.112,False,False,4.28796928,Spend-based,Secondary
+PO-00235,Delta_Logistics,2022-03-02,,Raw Materials,Delivered,239,39.87,35.47,32.0,Yes,35.47,8477.33,2022,325199,1.51,False,False,12.8007683,Spend-based,Secondary
+PO-00236,Alpha_Inc,2022-08-23,,Office Supplies,Delivered,1298,21.51,20.83,,Yes,20.83,27037.339999999997,2022,453210,0.163,False,False,4.40708642,Spend-based,Secondary
+PO-00237,Delta_Logistics,2022-03-11,,MRO,Delivered,1458,91.05,81.56,220.0,Yes,81.56,118914.48000000001,2022,333999,0.26,False,False,30.917764800000004,Spend-based,Secondary
+PO-00238,Gamma_Co,2022-02-02,2022-02-13,MRO,Delivered,1450,63.74,59.11,71.0,Yes,59.11,85709.5,2022,333999,0.26,False,False,22.284470000000002,Spend-based,Secondary
+PO-00239,Beta_Supplies,2022-12-05,2022-12-20,Electronics,Delivered,1356,75.03,63.86,131.0,Yes,63.86,86594.16,2022,334111,0.112,False,False,9.69854592,Spend-based,Secondary
+PO-00240,Gamma_Co,2022-03-14,,Packaging,Delivered,682,81.84,71.86,40.0,Yes,71.86,49008.52,2022,322211,0.49,False,False,24.014174799999996,Spend-based,Secondary
+PO-00241,Gamma_Co,2023-06-11,2023-06-19,Packaging,Delivered,677,59.52,55.29,39.0,Yes,55.29,37431.33,2023,322211,0.49,False,False,18.3413517,Spend-based,Secondary
+PO-00242,Delta_Logistics,2022-09-01,2022-09-14,Office Supplies,Delivered,1022,18.54,16.55,150.0,Yes,16.55,16914.100000000002,2022,453210,0.163,False,False,2.7569983000000007,Spend-based,Secondary
+PO-00243,Alpha_Inc,2022-10-13,,Raw Materials,Delivered,1818,60.96,57.13,41.0,Yes,57.13,103862.34000000001,2022,325199,1.51,False,False,156.83213340000003,Spend-based,Secondary
+PO-00244,Epsilon_Group,2023-11-17,2023-11-29,Electronics,Delivered,1332,69.73,63.8,41.0,Yes,63.8,84981.59999999999,2023,334111,0.112,False,False,9.517939199999999,Spend-based,Secondary
+PO-00245,Beta_Supplies,2023-05-13,2023-05-26,Raw Materials,Delivered,1432,83.26,77.67,174.0,Yes,77.67,111223.44,2023,325199,1.51,False,False,167.94739439999998,Spend-based,Secondary
+PO-00247,Alpha_Inc,2023-07-07,2023-07-19,Packaging,Delivered,1529,23.42,22.44,30.0,Yes,22.44,34310.76,2023,322211,0.49,False,False,16.8122724,Spend-based,Secondary
+PO-00248,Gamma_Co,2022-05-16,2022-05-25,Electronics,Delivered,1484,36.25,31.8,61.0,Yes,31.8,47191.200000000004,2022,334111,0.112,False,False,5.2854144000000005,Spend-based,Secondary
+PO-00249,Epsilon_Group,2023-08-08,2023-08-20,Packaging,Delivered,698,46.73,45.61,15.0,Yes,45.61,31835.78,2023,322211,0.49,False,False,15.5995322,Spend-based,Secondary
+PO-00251,Epsilon_Group,2023-04-30,2023-05-20,Office Supplies,Partially Delivered,1750,65.97,58.34,50.0,Yes,58.34,102095.0,2023,453210,0.163,False,False,16.641485,Spend-based,Secondary
+PO-00252,Delta_Logistics,2022-09-06,2022-09-24,Office Supplies,Partially Delivered,1298,43.73,37.21,,No,37.21,48298.58,2022,453210,0.163,False,False,7.87266854,Spend-based,Secondary
+PO-00253,Gamma_Co,2023-04-30,2023-05-20,Packaging,Delivered,1892,106.2,96.37,93.0,Yes,96.37,182332.04,2023,322211,0.49,False,False,89.3426996,Spend-based,Secondary
+PO-00254,Beta_Supplies,2023-02-21,2023-02-24,Electronics,Delivered,1307,68.71,60.64,141.0,Yes,60.64,79256.48,2023,334111,0.112,False,False,8.87672576,Spend-based,Secondary
+PO-00255,Beta_Supplies,2022-07-14,2022-07-29,Electronics,Delivered,733,32.29,29.01,78.0,Yes,29.01,21264.33,2022,334111,0.112,False,False,2.38160496,Spend-based,Secondary
+PO-00256,Gamma_Co,2022-04-07,,Packaging,Delivered,713,19.45,18.82,31.0,Yes,18.82,13418.66,2022,322211,0.49,False,False,6.5751434,Spend-based,Secondary
+PO-00257,Beta_Supplies,2022-04-10,2022-04-24,Packaging,Delivered,1900,24.11,23.45,188.0,Yes,23.45,44555.0,2022,322211,0.49,False,False,21.83195,Spend-based,Secondary
+PO-00259,Epsilon_Group,2023-03-18,,Office Supplies,Delivered,1745,26.17,22.25,55.0,Yes,22.25,38826.25,2023,453210,0.163,False,False,6.32867875,Spend-based,Secondary
+PO-00260,Beta_Supplies,2022-12-29,2023-01-14,Office Supplies,Delivered,1681,28.26,26.62,143.0,Yes,26.62,44748.22,2022,453210,0.163,False,False,7.293959860000001,Spend-based,Secondary
+PO-00261,Delta_Logistics,2023-03-10,2023-03-18,Electronics,Delivered,1545,38.15,36.96,214.0,Yes,36.96,57103.200000000004,2023,334111,0.112,False,False,6.3955584000000005,Spend-based,Secondary
+PO-00262,Epsilon_Group,2023-02-25,2023-03-02,Raw Materials,Delivered,1306,27.27,25.96,39.0,Yes,25.96,33903.76,2023,325199,1.51,False,False,51.194677600000006,Spend-based,Secondary
+PO-00263,Gamma_Co,2023-04-24,2023-05-06,Raw Materials,Delivered,1765,97.51,84.3,65.0,Yes,84.3,148789.5,2023,325199,1.51,False,False,224.672145,Spend-based,Secondary
+PO-00265,Delta_Logistics,2023-11-21,2023-11-26,Packaging,Delivered,1903,63.5,56.09,254.0,Yes,56.09,106739.27,2023,322211,0.49,False,False,52.302242299999996,Spend-based,Secondary
+PO-00266,Delta_Logistics,2023-11-01,2023-11-05,MRO,Delivered,1570,52.1,47.87,,No,47.87,75155.9,2023,333999,0.26,False,False,19.540534,Spend-based,Secondary
+PO-00267,Delta_Logistics,2023-10-24,2023-11-13,MRO,Delivered,491,108.75,93.35,,No,93.35,45834.85,2023,333999,0.26,False,False,11.917061,Spend-based,Secondary
+PO-00268,Beta_Supplies,2022-04-11,2022-04-20,Electronics,Partially Delivered,613,20.38,20.17,58.0,Yes,20.17,12364.210000000001,2022,334111,0.112,False,False,1.3847915200000003,Spend-based,Secondary
+PO-00269,Gamma_Co,2022-03-04,2022-03-16,Raw Materials,Partially Delivered,1341,46.27,43.94,63.0,Yes,43.94,58923.53999999999,2022,325199,1.51,False,False,88.97454539999998,Spend-based,Secondary
+PO-00270,Beta_Supplies,2023-02-17,2023-03-04,MRO,Partially Delivered,1583,103.57,89.38,164.0,Yes,89.38,141488.53999999998,2023,333999,0.26,False,False,36.787020399999996,Spend-based,Secondary
+PO-00272,Epsilon_Group,2022-04-22,2022-04-26,MRO,Delivered,1459,84.79,82.72,47.0,Yes,82.72,120688.48,2022,333999,0.26,False,False,31.379004799999997,Spend-based,Secondary
+PO-00273,Delta_Logistics,2022-09-12,,Office Supplies,Delivered,1460,34.54,31.87,208.0,No,31.87,46530.200000000004,2022,453210,0.163,False,False,7.584422600000001,Spend-based,Secondary
+PO-00274,Beta_Supplies,2022-07-16,2022-07-28,Packaging,Partially Delivered,1186,26.14,24.78,112.0,Yes,24.78,29389.08,2022,322211,0.49,False,False,14.4006492,Spend-based,Secondary
+PO-00276,Alpha_Inc,2023-07-04,2023-07-08,MRO,Delivered,1698,102.07,100.69,28.0,Yes,100.69,170971.62,2023,333999,0.26,False,False,44.4526212,Spend-based,Secondary
+PO-00277,Epsilon_Group,2023-04-05,,Electronics,Delivered,1001,64.62,55.7,32.0,Yes,55.7,55755.700000000004,2023,334111,0.112,False,False,6.2446384,Spend-based,Secondary
+PO-00278,Alpha_Inc,2022-05-24,2022-05-27,Office Supplies,Delivered,1154,62.67,54.11,25.0,Yes,54.11,62442.94,2022,453210,0.163,False,False,10.17819922,Spend-based,Secondary
+PO-00280,Alpha_Inc,2022-07-07,,Office Supplies,Delivered,162,81.63,78.76,2.0,Yes,78.76,12759.12,2022,453210,0.163,False,False,2.07973656,Spend-based,Secondary
+PO-00281,Alpha_Inc,2022-10-13,2022-10-24,Packaging,Delivered,51,28.04,24.13,0.0,Yes,24.13,1230.6299999999999,2022,322211,0.49,False,False,0.6030087,Spend-based,Secondary
+PO-00282,Delta_Logistics,2023-04-19,2023-04-24,Office Supplies,Delivered,691,42.07,39.1,106.0,Yes,39.1,27018.100000000002,2023,453210,0.163,False,False,4.4039503,Spend-based,Secondary
+PO-00283,Beta_Supplies,2022-09-13,2022-09-20,Office Supplies,Delivered,269,50.22,45.75,32.0,No,45.75,12306.75,2022,453210,0.163,False,False,2.00600025,Spend-based,Secondary
+PO-00285,Alpha_Inc,2023-03-30,2023-04-06,Raw Materials,Delivered,904,34.04,30.06,26.0,Yes,30.06,27174.239999999998,2023,325199,1.51,False,False,41.0331024,Spend-based,Secondary
+PO-00286,Beta_Supplies,2023-07-18,2023-07-26,Office Supplies,Delivered,1809,22.17,19.65,,Yes,19.65,35546.85,2023,453210,0.163,False,False,5.79413655,Spend-based,Secondary
+PO-00287,Alpha_Inc,2022-04-11,2022-04-16,Packaging,Delivered,1298,65.93,58.95,,Yes,58.95,76517.1,2022,322211,0.49,False,False,37.493379,Spend-based,Secondary
+PO-00288,Beta_Supplies,2022-02-21,2022-03-13,Packaging,Delivered,434,36.16,34.79,41.0,Yes,34.79,15098.859999999999,2022,322211,0.49,False,False,7.398441399999999,Spend-based,Secondary
+PO-00289,Epsilon_Group,2023-10-30,2023-11-04,Electronics,Delivered,1476,68.85,65.28,43.0,Yes,65.28,96353.28,2023,334111,0.112,False,False,10.79156736,Spend-based,Secondary
+PO-00290,Delta_Logistics,2023-07-08,,Raw Materials,Partially Delivered,1711,26.04,24.81,290.0,Yes,24.81,42449.909999999996,2023,325199,1.51,False,False,64.09936409999999,Spend-based,Secondary
+PO-00291,Gamma_Co,2022-01-16,2022-01-22,Packaging,Delivered,1203,53.3,47.68,49.0,Yes,47.68,57359.04,2022,322211,0.49,False,False,28.1059296,Spend-based,Secondary
+PO-00292,Alpha_Inc,2022-04-06,2022-04-07,Electronics,Delivered,1126,58.8,52.22,,Yes,52.22,58799.72,2022,334111,0.112,False,False,6.58556864,Spend-based,Secondary
+PO-00293,Epsilon_Group,2022-08-31,2022-09-12,Packaging,Delivered,1757,15.18,13.06,63.0,Yes,13.06,22946.420000000002,2022,322211,0.49,False,False,11.243745800000001,Spend-based,Secondary
+PO-00294,Epsilon_Group,2022-06-20,2022-06-28,MRO,Delivered,779,41.3,36.28,20.0,Yes,36.28,28262.120000000003,2022,333999,0.26,False,False,7.348151200000001,Spend-based,Secondary
+PO-00295,Delta_Logistics,2023-02-21,2023-02-22,Office Supplies,Delivered,1745,23.53,22.57,282.0,No,22.57,39384.65,2023,453210,0.163,False,False,6.419697950000001,Spend-based,Secondary
+PO-00296,Delta_Logistics,2023-05-13,2023-05-15,Raw Materials,Delivered,1783,16.96,15.8,295.0,Yes,15.8,28171.4,2023,325199,1.51,False,False,42.53881400000001,Spend-based,Secondary
+PO-00297,Alpha_Inc,2023-05-08,2023-05-22,Office Supplies,Partially Delivered,1489,107.02,93.3,,Yes,93.3,138923.69999999998,2023,453210,0.163,False,False,22.6445631,Spend-based,Secondary
+PO-00298,Alpha_Inc,2022-08-07,2022-08-10,Office Supplies,Delivered,296,40.38,35.25,,Yes,35.25,10434.0,2022,453210,0.163,False,False,1.700742,Spend-based,Secondary
+PO-00299,Epsilon_Group,2023-02-15,2023-02-27,MRO,Delivered,885,88.28,80.8,31.0,Yes,80.8,71508.0,2023,333999,0.26,False,False,18.592080000000003,Spend-based,Secondary
+PO-00301,Delta_Logistics,2022-06-18,2022-06-26,Office Supplies,Delivered,252,73.12,67.64,,No,67.64,17045.28,2022,453210,0.163,False,False,2.77838064,Spend-based,Secondary
+PO-00303,Alpha_Inc,2022-01-03,2022-01-20,Packaging,Delivered,172,63.61,55.92,4.0,Yes,55.92,9618.24,2022,322211,0.49,False,False,4.7129376,Spend-based,Secondary
+PO-00305,Gamma_Co,2022-09-29,2022-10-15,Electronics,Delivered,816,48.95,43.42,45.0,Yes,43.42,35430.72,2022,334111,0.112,False,False,3.9682406400000003,Spend-based,Secondary
+PO-00306,Epsilon_Group,2023-04-11,2023-04-25,Packaging,Delivered,343,44.5,38.57,7.0,Yes,38.57,13229.51,2023,322211,0.49,False,False,6.4824599,Spend-based,Secondary
+PO-00307,Gamma_Co,2022-10-20,2022-11-05,MRO,Delivered,329,97.87,85.35,21.0,No,85.35,28080.149999999998,2022,333999,0.26,False,False,7.300839,Spend-based,Secondary
+PO-00308,Alpha_Inc,2023-03-10,2023-03-25,Electronics,Delivered,1910,90.69,85.8,,Yes,85.8,163878.0,2023,334111,0.112,False,False,18.354336,Spend-based,Secondary
+PO-00309,Epsilon_Group,2023-12-15,2023-12-18,MRO,Delivered,933,107.99,104.29,29.0,Yes,104.29,97302.57,2023,333999,0.26,False,False,25.298668200000005,Spend-based,Secondary
+PO-00310,Delta_Logistics,2023-07-24,2023-07-29,Raw Materials,Delivered,1683,23.09,21.88,253.0,Yes,21.88,36824.04,2023,325199,1.51,False,False,55.6043004,Spend-based,Secondary
+PO-00312,Alpha_Inc,2023-05-14,2023-06-02,MRO,Delivered,1031,102.01,98.65,,Yes,98.65,101708.15000000001,2023,333999,0.26,False,False,26.444119000000004,Spend-based,Secondary
+PO-00313,Alpha_Inc,2022-06-08,2022-06-19,Packaging,Delivered,1980,26.97,24.16,41.0,Yes,24.16,47836.8,2022,322211,0.49,False,False,23.440032,Spend-based,Secondary
+PO-00314,Epsilon_Group,2022-07-14,2022-08-03,Raw Materials,Delivered,1584,16.46,14.2,57.0,Yes,14.2,22492.8,2022,325199,1.51,False,False,33.964127999999995,Spend-based,Secondary
+PO-00315,Beta_Supplies,2022-10-31,2022-11-15,Office Supplies,Delivered,801,80.15,70.91,,Yes,70.91,56798.909999999996,2022,453210,0.163,False,False,9.25822233,Spend-based,Secondary
+PO-00316,Beta_Supplies,2022-08-11,2022-08-25,Packaging,Delivered,193,63.86,57.46,,Yes,57.46,11089.78,2022,322211,0.49,False,False,5.4339922000000005,Spend-based,Secondary
+PO-00317,Beta_Supplies,2022-03-01,2022-03-05,Raw Materials,Delivered,658,86.62,79.85,72.0,Yes,79.85,52541.299999999996,2022,325199,1.51,False,False,79.337363,Spend-based,Secondary
+PO-00318,Epsilon_Group,2023-08-17,2023-09-04,Electronics,Delivered,1274,24.72,23.36,37.0,Yes,23.36,29760.64,2023,334111,0.112,False,False,3.33319168,Spend-based,Secondary
+PO-00319,Epsilon_Group,2023-07-10,2023-07-17,Packaging,Partially Delivered,1197,88.92,78.82,31.0,Yes,78.82,94347.54,2023,322211,0.49,False,False,46.23029459999999,Spend-based,Secondary
+PO-00320,Gamma_Co,2022-03-04,2022-03-12,Electronics,Delivered,236,28.43,28.11,11.0,Yes,28.11,6633.96,2022,334111,0.112,False,False,0.74300352,Spend-based,Secondary
+PO-00321,Gamma_Co,2022-11-18,2022-12-03,Raw Materials,Partially Delivered,1399,25.97,22.19,62.0,Yes,22.19,31043.81,2022,325199,1.51,False,False,46.8761531,Spend-based,Secondary
+PO-00322,Gamma_Co,2022-02-28,2022-03-04,Electronics,Delivered,513,24.91,22.58,29.0,Yes,22.58,11583.539999999999,2022,334111,0.112,False,False,1.29735648,Spend-based,Secondary
+PO-00323,Delta_Logistics,2022-02-21,2022-03-04,MRO,Delivered,1422,83.73,76.47,198.0,Yes,76.47,108740.34,2022,333999,0.26,False,False,28.272488399999997,Spend-based,Secondary
+PO-00324,Alpha_Inc,2023-08-22,2023-09-03,Office Supplies,Delivered,1844,76.51,73.05,,Yes,73.05,134704.19999999998,2023,453210,0.163,False,False,21.9567846,Spend-based,Secondary
+PO-00325,Gamma_Co,2023-05-04,,Electronics,Delivered,709,61.64,54.55,41.0,Yes,54.55,38675.95,2023,334111,0.112,False,False,4.3317064,Spend-based,Secondary
+PO-00326,Delta_Logistics,2023-05-30,2023-06-15,MRO,Delivered,813,45.68,41.78,,No,41.78,33967.14,2023,333999,0.26,False,False,8.8314564,Spend-based,Secondary
+PO-00327,Delta_Logistics,2023-06-28,2023-07-01,Office Supplies,Delivered,1004,96.51,92.9,146.0,No,92.9,93271.6,2023,453210,0.163,False,False,15.203270800000002,Spend-based,Secondary
+PO-00328,Epsilon_Group,2022-06-11,2022-06-15,Raw Materials,Delivered,452,46.45,40.39,9.0,Yes,40.39,18256.28,2022,325199,1.51,False,False,27.566982799999998,Spend-based,Secondary
+PO-00330,Beta_Supplies,2023-06-05,2023-06-23,Packaging,Delivered,1584,53.73,51.92,167.0,No,51.92,82241.28,2023,322211,0.49,False,False,40.2982272,Spend-based,Secondary
+PO-00332,Alpha_Inc,2022-07-10,2022-07-14,Office Supplies,Delivered,1221,53.19,46.18,29.0,Yes,46.18,56385.78,2022,453210,0.163,False,False,9.19088214,Spend-based,Secondary
+PO-00333,Alpha_Inc,2022-03-12,2022-03-26,Packaging,Delivered,913,37.5,36.2,,Yes,36.2,33050.600000000006,2022,322211,0.49,False,False,16.194794,Spend-based,Secondary
+PO-00334,Alpha_Inc,2023-09-02,2023-09-04,Packaging,Delivered,1784,85.01,76.69,37.0,Yes,76.69,136814.96,2023,322211,0.49,False,False,67.0393304,Spend-based,Secondary
+PO-00335,Delta_Logistics,2022-03-11,,Raw Materials,Delivered,1893,55.8,52.35,,Yes,52.35,99098.55,2022,325199,1.51,False,False,149.6388105,Spend-based,Secondary
+PO-00342,Beta_Supplies,2023-08-16,2023-08-30,MRO,Delivered,690,22.47,21.94,77.0,Yes,21.94,15138.6,2023,333999,0.26,False,False,3.936036,Spend-based,Secondary
+PO-00344,Delta_Logistics,2022-02-10,2022-02-28,Electronics,Delivered,522,66.83,58.01,74.0,Yes,58.01,30281.219999999998,2022,334111,0.112,False,False,3.3914966399999997,Spend-based,Secondary
+PO-00345,Delta_Logistics,2023-09-27,2023-10-06,Electronics,Delivered,200,44.16,43.13,21.0,Yes,43.13,8626.0,2023,334111,0.112,False,False,0.966112,Spend-based,Secondary
+PO-00346,Gamma_Co,2022-03-25,2022-04-03,Packaging,Delivered,1488,22.76,21.99,,Yes,21.99,32721.12,2022,322211,0.49,False,False,16.0333488,Spend-based,Secondary
+PO-00347,Epsilon_Group,2023-03-06,2023-03-16,Electronics,Delivered,1371,87.16,78.13,43.0,Yes,78.13,107116.23,2023,334111,0.112,False,False,11.99701776,Spend-based,Secondary
+PO-00348,Alpha_Inc,2023-11-05,,Office Supplies,Delivered,1684,73.05,62.53,,Yes,62.53,105300.52,2023,453210,0.163,False,False,17.16398476,Spend-based,Secondary
+PO-00349,Epsilon_Group,2023-08-21,2023-08-27,Electronics,Delivered,312,63.52,58.09,,Yes,58.09,18124.08,2023,334111,0.112,False,False,2.0298969600000003,Spend-based,Secondary
+PO-00351,Beta_Supplies,2023-06-20,2023-06-23,MRO,Delivered,193,87.86,81.74,21.0,Yes,81.74,15775.82,2023,333999,0.26,False,False,4.1017132,Spend-based,Secondary
+PO-00352,Beta_Supplies,2022-11-20,2022-11-21,Electronics,Delivered,395,24.83,23.96,31.0,Yes,23.96,9464.2,2022,334111,0.112,False,False,1.0599904000000002,Spend-based,Secondary
+PO-00355,Gamma_Co,2023-11-17,2023-11-23,Packaging,Delivered,1645,85.42,80.78,73.0,No,80.78,132883.1,2023,322211,0.49,False,False,65.112719,Spend-based,Secondary
+PO-00356,Alpha_Inc,2022-11-18,2022-11-29,Electronics,Delivered,930,13.67,11.95,16.0,Yes,11.95,11113.5,2022,334111,0.112,False,False,1.244712,Spend-based,Secondary
+PO-00357,Alpha_Inc,2022-09-02,2022-09-21,Office Supplies,Delivered,51,63.74,56.1,0.0,Yes,56.1,2861.1,2022,453210,0.163,False,False,0.46635930000000003,Spend-based,Secondary
+PO-00358,Gamma_Co,2022-09-29,2022-10-01,Packaging,Delivered,946,81.77,71.65,55.0,Yes,71.65,67780.90000000001,2022,322211,0.49,False,False,33.212641000000005,Spend-based,Secondary
+PO-00359,Epsilon_Group,2023-02-10,2023-03-02,Raw Materials,Partially Delivered,1377,94.69,84.2,,Yes,84.2,115943.40000000001,2023,325199,1.51,False,False,175.07453400000003,Spend-based,Secondary
+PO-00361,Alpha_Inc,2023-11-19,2023-12-03,Raw Materials,Delivered,1725,93.14,79.62,24.0,Yes,79.62,137344.5,2023,325199,1.51,False,False,207.390195,Spend-based,Secondary
+PO-00363,Gamma_Co,2022-11-04,2022-11-11,Packaging,Delivered,1110,90.49,80.03,61.0,Yes,80.03,88833.3,2022,322211,0.49,False,False,43.528317,Spend-based,Secondary
+PO-00364,Alpha_Inc,2023-04-14,2023-04-18,Packaging,Delivered,1233,23.08,20.57,,Yes,20.57,25362.81,2023,322211,0.49,False,False,12.427776900000001,Spend-based,Secondary
+PO-00365,Beta_Supplies,2022-11-20,2022-11-24,Office Supplies,Delivered,1064,48.04,43.6,94.0,Yes,43.6,46390.4,2022,453210,0.163,False,False,7.5616352000000004,Spend-based,Secondary
+PO-00366,Epsilon_Group,2022-03-16,2022-04-04,Packaging,Partially Delivered,58,82.57,76.55,,Yes,76.55,4439.9,2022,322211,0.49,False,False,2.175551,Spend-based,Secondary
+PO-00367,Beta_Supplies,2022-01-10,2022-01-20,MRO,Delivered,1306,23.49,20.17,116.0,No,20.17,26342.02,2022,333999,0.26,False,False,6.848925200000001,Spend-based,Secondary
+PO-00368,Delta_Logistics,2023-04-15,2023-04-28,Electronics,Delivered,1172,32.93,29.28,,No,29.28,34316.16,2023,334111,0.112,False,False,3.8434099200000005,Spend-based,Secondary
+PO-00369,Alpha_Inc,2023-09-29,,Packaging,Delivered,1732,82.5,71.71,24.0,Yes,71.71,124201.71999999999,2023,322211,0.49,False,False,60.85884279999999,Spend-based,Secondary
+PO-00370,Gamma_Co,2023-07-31,2023-08-07,Raw Materials,Delivered,865,81.54,71.59,39.0,Yes,71.59,61925.350000000006,2023,325199,1.51,False,False,93.50727850000001,Spend-based,Secondary
+PO-00371,Beta_Supplies,2022-04-13,2022-04-20,Raw Materials,Delivered,257,68.72,66.92,22.0,Yes,66.92,17198.44,2022,325199,1.51,False,False,25.969644399999996,Spend-based,Secondary
+PO-00372,Epsilon_Group,2022-03-17,2022-03-26,Packaging,Delivered,1204,73.18,67.59,31.0,Yes,67.59,81378.36,2022,322211,0.49,False,False,39.8753964,Spend-based,Secondary
+PO-00373,Beta_Supplies,2023-07-05,2023-07-09,Electronics,Partially Delivered,453,64.14,60.18,51.0,Yes,60.18,27261.54,2023,334111,0.112,False,False,3.05329248,Spend-based,Secondary
+PO-00374,Epsilon_Group,2022-08-07,2022-08-21,Electronics,Delivered,201,33.81,32.54,3.0,Yes,32.54,6540.54,2022,334111,0.112,False,False,0.73254048,Spend-based,Secondary
+PO-00375,Delta_Logistics,2023-06-03,2023-06-16,Office Supplies,Delivered,103,44.61,42.88,10.0,Yes,42.88,4416.64,2023,453210,0.163,False,False,0.7199123200000002,Spend-based,Secondary
+PO-00376,Epsilon_Group,2022-09-29,2022-10-07,Office Supplies,Delivered,1193,27.4,27.09,,Yes,27.09,32318.37,2022,453210,0.163,False,False,5.26789431,Spend-based,Secondary
+PO-00377,Gamma_Co,2022-05-16,2022-05-28,Office Supplies,Partially Delivered,1746,93.6,89.81,85.0,Yes,89.81,156808.26,2022,453210,0.163,False,False,25.559746380000004,Spend-based,Secondary
+PO-00378,Delta_Logistics,2022-12-24,2022-12-26,Electronics,Delivered,1993,65.94,59.36,,Yes,59.36,118304.48,2022,334111,0.112,False,False,13.25010176,Spend-based,Secondary
+PO-00379,Beta_Supplies,2022-03-12,2022-03-27,Raw Materials,Delivered,677,46.54,43.11,,No,43.11,29185.47,2022,325199,1.51,False,False,44.07005970000001,Spend-based,Secondary
+PO-00381,Epsilon_Group,2023-01-14,2023-02-02,Packaging,Delivered,1698,100.97,98.73,52.0,Yes,98.73,167643.54,2023,322211,0.49,False,False,82.1453346,Spend-based,Secondary
+PO-00382,Gamma_Co,2022-10-19,2022-11-01,Office Supplies,Delivered,1493,24.87,22.89,56.0,Yes,22.89,34174.770000000004,2022,453210,0.163,False,False,5.57048751,Spend-based,Secondary
+PO-00383,Alpha_Inc,2022-06-11,2022-06-25,Packaging,Delivered,1495,64.33,58.18,26.0,Yes,58.18,86979.1,2022,322211,0.49,False,False,42.619759,Spend-based,Secondary
+PO-00386,Beta_Supplies,2023-12-22,2024-01-11,Packaging,Delivered,303,12.97,11.42,,No,11.42,3460.2599999999998,2023,322211,0.49,False,False,1.6955274,Spend-based,Secondary
+PO-00387,Alpha_Inc,2022-11-06,2022-11-18,Office Supplies,Delivered,1300,92.92,90.63,,Yes,90.63,117819.0,2022,453210,0.163,False,False,19.204497,Spend-based,Secondary
+PO-00388,Gamma_Co,2023-09-19,2023-09-23,Raw Materials,Delivered,1185,103.28,99.05,,Yes,99.05,117374.25,2023,325199,1.51,False,False,177.2351175,Spend-based,Secondary
+PO-00389,Epsilon_Group,2023-11-01,2023-11-20,Raw Materials,Delivered,559,67.56,57.98,15.0,Yes,57.98,32410.82,2023,325199,1.51,False,False,48.9403382,Spend-based,Secondary
+PO-00391,Epsilon_Group,2022-01-09,2022-01-19,Packaging,Delivered,148,93.02,85.96,4.0,Yes,85.96,12722.08,2022,322211,0.49,False,False,6.2338192,Spend-based,Secondary
+PO-00392,Delta_Logistics,2023-11-15,2023-11-23,Office Supplies,Delivered,202,81.75,78.26,37.0,No,78.26,15808.52,2023,453210,0.163,False,False,2.5767887600000003,Spend-based,Secondary
+PO-00393,Gamma_Co,2023-07-22,2023-07-28,Packaging,Delivered,1934,25.86,25.6,78.0,Yes,25.6,49510.4,2023,322211,0.49,False,False,24.260096,Spend-based,Secondary
+PO-00394,Alpha_Inc,2022-11-03,2022-11-07,Office Supplies,Delivered,963,64.96,64.07,20.0,Yes,64.07,61699.409999999996,2022,453210,0.163,False,False,10.05700383,Spend-based,Secondary
+PO-00395,Gamma_Co,2023-11-11,2023-11-18,MRO,Delivered,1969,71.71,61.96,,Yes,61.96,121999.24,2023,333999,0.26,False,False,31.719802400000003,Spend-based,Secondary
+PO-00396,Delta_Logistics,2022-04-17,,Electronics,Delivered,927,48.89,46.05,138.0,Yes,46.05,42688.35,2022,334111,0.112,False,False,4.781095199999999,Spend-based,Secondary
+PO-00398,Beta_Supplies,2022-09-28,2022-10-03,Electronics,Delivered,1779,97.86,94.36,176.0,Yes,94.36,167866.44,2022,334111,0.112,False,False,18.80104128,Spend-based,Secondary
+PO-00400,Epsilon_Group,2022-04-20,2022-04-23,Electronics,Delivered,1236,51.33,44.03,25.0,Yes,44.03,54421.08,2022,334111,0.112,False,False,6.09516096,Spend-based,Secondary
+PO-00401,Delta_Logistics,2023-07-21,2023-08-06,Electronics,Delivered,1793,22.01,21.78,285.0,Yes,21.78,39051.54,2023,334111,0.112,False,False,4.37377248,Spend-based,Secondary
+PO-00402,Delta_Logistics,2022-06-09,2022-06-28,MRO,Delivered,1006,101.1,89.04,139.0,Yes,89.04,89574.24,2022,333999,0.26,False,False,23.2893024,Spend-based,Secondary
+PO-00404,Epsilon_Group,2022-10-16,2022-11-04,Electronics,Delivered,210,22.17,21.32,10.0,Yes,21.32,4477.2,2022,334111,0.112,False,False,0.5014464,Spend-based,Secondary
+PO-00405,Delta_Logistics,2023-09-12,2023-10-02,MRO,Delivered,1653,102.16,91.91,217.0,Yes,91.91,151927.22999999998,2023,333999,0.26,False,False,39.5010798,Spend-based,Secondary
+PO-00406,Alpha_Inc,2022-08-04,2022-08-15,MRO,Partially Delivered,850,91.38,88.41,24.0,Yes,88.41,75148.5,2022,333999,0.26,False,False,19.538610000000002,Spend-based,Secondary
+PO-00407,Epsilon_Group,2022-12-18,2022-12-21,Raw Materials,Delivered,447,59.81,57.92,13.0,Yes,57.92,25890.24,2022,325199,1.51,False,False,39.0942624,Spend-based,Secondary
+PO-00408,Gamma_Co,2022-07-28,2022-08-07,Office Supplies,Delivered,1350,65.11,56.95,71.0,Yes,56.95,76882.5,2022,453210,0.163,False,False,12.5318475,Spend-based,Secondary
+PO-00409,Beta_Supplies,2023-12-05,2023-12-24,Office Supplies,Delivered,865,51.19,47.76,83.0,Yes,47.76,41312.4,2023,453210,0.163,False,False,6.733921200000001,Spend-based,Secondary
+PO-00410,Alpha_Inc,2023-10-12,2023-10-29,MRO,Delivered,1989,16.5,15.89,57.0,Yes,15.89,31605.210000000003,2023,333999,0.26,False,False,8.2173546,Spend-based,Secondary
+PO-00411,Alpha_Inc,2022-09-28,2022-10-13,Office Supplies,Delivered,1577,41.77,39.58,32.0,Yes,39.58,62417.659999999996,2022,453210,0.163,False,False,10.17407858,Spend-based,Secondary
+PO-00413,Beta_Supplies,2023-05-16,2023-05-26,Packaging,Partially Delivered,1465,11.25,9.61,151.0,Yes,9.61,14078.65,2023,322211,0.49,False,False,6.8985385,Spend-based,Secondary
+PO-00415,Beta_Supplies,2022-02-22,2022-03-11,Raw Materials,Delivered,1268,46.06,45.26,123.0,Yes,45.26,57389.68,2022,325199,1.51,False,False,86.65841680000001,Spend-based,Secondary
+PO-00416,Delta_Logistics,2022-04-05,2022-04-24,Office Supplies,Delivered,450,59.24,55.03,68.0,No,55.03,24763.5,2022,453210,0.163,False,False,4.0364505,Spend-based,Secondary
+PO-00417,Gamma_Co,2023-10-12,2023-10-14,Electronics,Partially Delivered,689,102.53,95.23,38.0,Yes,95.23,65613.47,2023,334111,0.112,False,False,7.34870864,Spend-based,Secondary
+PO-00418,Gamma_Co,2023-03-10,2023-03-29,MRO,Delivered,1106,44.05,38.6,51.0,Yes,38.6,42691.6,2023,333999,0.26,False,False,11.099816,Spend-based,Secondary
+PO-00419,Alpha_Inc,2022-10-11,2022-10-22,Office Supplies,Delivered,737,43.08,42.58,21.0,Yes,42.58,31381.46,2022,453210,0.163,False,False,5.11517798,Spend-based,Secondary
+PO-00420,Alpha_Inc,2022-02-15,2022-03-04,Raw Materials,Delivered,509,76.76,74.72,7.0,No,74.72,38032.479999999996,2022,325199,1.51,False,False,57.42904479999999,Spend-based,Secondary
+PO-00421,Alpha_Inc,2022-01-04,2022-01-06,Electronics,Delivered,1004,50.7,46.59,27.0,Yes,46.59,46776.36,2022,334111,0.112,False,False,5.23895232,Spend-based,Secondary
+PO-00423,Delta_Logistics,2022-05-14,,Electronics,Delivered,519,51.73,47.52,81.0,No,47.52,24662.88,2022,334111,0.112,False,False,2.7622425600000002,Spend-based,Secondary
+PO-00424,Gamma_Co,2023-10-15,2023-10-21,MRO,Partially Delivered,1448,25.06,21.62,84.0,Yes,21.62,31305.760000000002,2023,333999,0.26,False,False,8.1394976,Spend-based,Secondary
+PO-00425,Gamma_Co,2022-09-26,2022-10-11,Packaging,Delivered,1095,26.91,23.75,53.0,Yes,23.75,26006.25,2022,322211,0.49,False,False,12.7430625,Spend-based,Secondary
+PO-00426,Alpha_Inc,2022-06-15,,MRO,Delivered,799,56.22,49.51,18.0,Yes,49.51,39558.49,2022,333999,0.26,False,False,10.285207399999999,Spend-based,Secondary
+PO-00427,Beta_Supplies,2023-03-29,2023-04-18,MRO,Partially Delivered,1743,51.04,47.15,160.0,Yes,47.15,82182.45,2023,333999,0.26,False,False,21.367437000000002,Spend-based,Secondary
+PO-00428,Alpha_Inc,2023-07-19,2023-07-31,Raw Materials,Delivered,87,100.65,85.56,1.0,Yes,85.56,7443.72,2023,325199,1.51,False,False,11.2400172,Spend-based,Secondary
+PO-00429,Beta_Supplies,2023-12-24,,Raw Materials,Delivered,279,47.52,46.5,28.0,No,46.5,12973.5,2023,325199,1.51,False,False,19.589985000000002,Spend-based,Secondary
+PO-00430,Delta_Logistics,2023-03-14,2023-03-25,Raw Materials,Delivered,1438,66.61,58.5,237.0,Yes,58.5,84123.0,2023,325199,1.51,False,False,127.02573,Spend-based,Secondary
+PO-00431,Delta_Logistics,2023-07-29,2023-07-31,Office Supplies,Partially Delivered,612,72.93,63.32,99.0,Yes,63.32,38751.840000000004,2023,453210,0.163,False,False,6.316549920000002,Spend-based,Secondary
+PO-00433,Epsilon_Group,2022-04-25,2022-04-29,Packaging,Partially Delivered,1849,70.76,69.25,51.0,Yes,69.25,128043.25,2022,322211,0.49,False,False,62.7411925,Spend-based,Secondary
+PO-00434,Epsilon_Group,2022-03-19,2022-04-01,MRO,Partially Delivered,1356,26.28,25.44,47.0,Yes,25.44,34496.64,2022,333999,0.26,False,False,8.9691264,Spend-based,Secondary
+PO-00435,Delta_Logistics,2023-12-09,2023-12-29,Raw Materials,Delivered,76,107.59,96.33,10.0,Yes,96.33,7321.08,2023,325199,1.51,False,False,11.0548308,Spend-based,Secondary
+PO-00436,Alpha_Inc,2022-06-02,2022-06-13,Packaging,Partially Delivered,275,23.96,20.44,,Yes,20.44,5621.0,2022,322211,0.49,False,False,2.75429,Spend-based,Secondary
+PO-00437,Alpha_Inc,2023-07-13,2023-07-18,Packaging,Delivered,1350,51.57,48.07,,Yes,48.07,64894.5,2023,322211,0.49,False,False,31.798305,Spend-based,Secondary
+PO-00438,Alpha_Inc,2022-02-06,,MRO,Delivered,847,17.77,17.39,,Yes,17.39,14729.33,2022,333999,0.26,False,False,3.8296258,Spend-based,Secondary
+PO-00439,Gamma_Co,2023-01-14,2023-01-27,MRO,Delivered,1682,105.7,101.3,94.0,Yes,101.3,170386.6,2023,333999,0.26,False,False,44.300516,Spend-based,Secondary
+PO-00440,Epsilon_Group,2023-08-20,2023-08-23,Electronics,Delivered,333,60.44,58.54,8.0,Yes,58.54,19493.82,2023,334111,0.112,False,False,2.18330784,Spend-based,Secondary
+PO-00442,Epsilon_Group,2022-06-01,2022-06-12,MRO,Partially Delivered,1009,16.44,16.18,,Yes,16.18,16325.619999999999,2022,333999,0.26,False,False,4.2446611999999995,Spend-based,Secondary
+PO-00444,Gamma_Co,2022-05-11,2022-05-25,Packaging,Partially Delivered,502,29.47,28.94,27.0,Yes,28.94,14527.880000000001,2022,322211,0.49,False,False,7.1186612,Spend-based,Secondary
+PO-00445,Delta_Logistics,2022-02-12,2022-02-13,MRO,Delivered,1069,91.28,82.64,,Yes,82.64,88342.16,2022,333999,0.26,False,False,22.968961600000004,Spend-based,Secondary
+PO-00448,Delta_Logistics,2022-02-10,2022-02-26,Packaging,Partially Delivered,708,13.36,11.61,,No,11.61,8219.88,2022,322211,0.49,False,False,4.0277411999999995,Spend-based,Secondary
+PO-00449,Delta_Logistics,2023-01-02,2023-01-07,Packaging,Delivered,1589,55.64,48.52,,Yes,48.52,77098.28,2023,322211,0.49,False,False,37.7781572,Spend-based,Secondary
+PO-00450,Alpha_Inc,2022-08-04,2022-08-14,Office Supplies,Delivered,596,62.96,61.88,9.0,Yes,61.88,36880.48,2022,453210,0.163,False,False,6.01151824,Spend-based,Secondary
+PO-00451,Epsilon_Group,2023-11-30,2023-12-04,Office Supplies,Delivered,1265,17.66,16.97,34.0,Yes,16.97,21467.05,2023,453210,0.163,False,False,3.4991291500000004,Spend-based,Secondary
+PO-00452,Beta_Supplies,2022-09-13,2022-10-01,Raw Materials,Delivered,1122,82.99,81.7,118.0,No,81.7,91667.40000000001,2022,325199,1.51,False,False,138.417774,Spend-based,Secondary
+PO-00453,Epsilon_Group,2023-11-14,2023-12-01,Office Supplies,Delivered,1585,56.38,53.05,,Yes,53.05,84084.25,2023,453210,0.163,False,False,13.705732750000001,Spend-based,Secondary
+PO-00454,Epsilon_Group,2022-04-16,2022-04-27,Electronics,Delivered,66,58.05,50.76,,Yes,50.76,3350.16,2022,334111,0.112,False,False,0.37521792,Spend-based,Secondary
+PO-00455,Beta_Supplies,2022-12-29,2023-01-18,MRO,Delivered,1245,52.4,51.65,118.0,No,51.65,64304.25,2022,333999,0.26,False,False,16.719105,Spend-based,Secondary
+PO-00456,Delta_Logistics,2023-07-28,2023-08-10,Electronics,Delivered,1293,50.21,47.55,,No,47.55,61482.149999999994,2023,334111,0.112,False,False,6.8860008,Spend-based,Secondary
+PO-00457,Beta_Supplies,2023-02-21,2023-02-27,Packaging,Delivered,207,64.29,63.01,25.0,Yes,63.01,13043.07,2023,322211,0.49,False,False,6.3911043,Spend-based,Secondary
+PO-00458,Beta_Supplies,2023-09-28,2023-10-18,Office Supplies,Delivered,526,26.37,25.32,47.0,Yes,25.32,13318.32,2023,453210,0.163,False,False,2.1708861600000002,Spend-based,Secondary
+PO-00459,Gamma_Co,2022-06-08,2022-06-14,Electronics,Delivered,1119,27.03,23.82,,Yes,23.82,26654.58,2022,334111,0.112,False,False,2.9853129600000003,Spend-based,Secondary
+PO-00460,Gamma_Co,2022-08-31,2022-09-02,Packaging,Delivered,1446,90.63,84.51,77.0,Yes,84.51,122201.46,2022,322211,0.49,False,False,59.878715400000004,Spend-based,Secondary
+PO-00461,Gamma_Co,2022-06-16,2022-06-24,Office Supplies,Delivered,567,97.53,85.29,21.0,Yes,85.29,48359.43,2022,453210,0.163,False,False,7.88258709,Spend-based,Secondary
+PO-00462,Delta_Logistics,2022-07-01,,MRO,Delivered,148,44.91,40.1,,No,40.1,5934.8,2022,333999,0.26,False,False,1.543048,Spend-based,Secondary
+PO-00465,Beta_Supplies,2022-07-03,2022-07-19,MRO,Delivered,1110,48.19,45.88,112.0,Yes,45.88,50926.8,2022,333999,0.26,False,False,13.240968,Spend-based,Secondary
+PO-00466,Delta_Logistics,2022-12-07,,Raw Materials,Delivered,329,12.96,12.74,48.0,Yes,12.74,4191.46,2022,325199,1.51,False,False,6.3291046,Spend-based,Secondary
+PO-00468,Delta_Logistics,2023-11-17,,Raw Materials,Delivered,546,82.63,74.77,76.0,No,74.77,40824.42,2023,325199,1.51,False,False,61.6448742,Spend-based,Secondary
+PO-00469,Gamma_Co,2022-09-12,2022-09-22,Office Supplies,Partially Delivered,351,72.08,71.3,20.0,Yes,71.3,25026.3,2022,453210,0.163,False,False,4.0792869000000005,Spend-based,Secondary
+PO-00470,Delta_Logistics,2022-10-01,2022-10-18,Raw Materials,Partially Delivered,230,13.0,12.81,,No,12.81,2946.3,2022,325199,1.51,False,False,4.448913,Spend-based,Secondary
+PO-00471,Alpha_Inc,2022-06-13,2022-06-19,MRO,Delivered,656,30.73,26.26,17.0,Yes,26.26,17226.56,2022,333999,0.26,False,False,4.4789056,Spend-based,Secondary
+PO-00472,Gamma_Co,2023-12-20,2024-01-09,MRO,Delivered,1172,34.34,32.09,69.0,Yes,32.09,37609.48,2023,333999,0.26,False,False,9.778464800000002,Spend-based,Secondary
+PO-00473,Gamma_Co,2022-04-21,2022-04-30,Electronics,Delivered,749,71.53,70.02,41.0,Yes,70.02,52444.979999999996,2022,334111,0.112,False,False,5.87383776,Spend-based,Secondary
+PO-00474,Beta_Supplies,2023-01-27,2023-02-12,Packaging,Delivered,1042,12.48,12.3,88.0,Yes,12.3,12816.6,2023,322211,0.49,False,False,6.280134,Spend-based,Secondary
+PO-00475,Delta_Logistics,2022-02-09,2022-02-27,Raw Materials,Delivered,1189,19.47,17.15,,No,17.15,20391.35,2022,325199,1.51,False,False,30.790938499999996,Spend-based,Secondary
+PO-00476,Epsilon_Group,2023-04-27,,Office Supplies,Delivered,240,88.14,81.9,4.0,Yes,81.9,19656.0,2023,453210,0.163,False,False,3.2039280000000003,Spend-based,Secondary
+PO-00477,Epsilon_Group,2022-08-16,2022-09-02,MRO,Delivered,302,26.98,26.47,9.0,Yes,26.47,7993.94,2022,333999,0.26,False,False,2.0784244,Spend-based,Secondary
+PO-00479,Delta_Logistics,2023-04-17,2023-04-23,Office Supplies,Delivered,977,33.79,32.25,137.0,Yes,32.25,31508.25,2023,453210,0.163,False,False,5.13584475,Spend-based,Secondary
+PO-00480,Alpha_Inc,2022-12-25,2023-01-11,Packaging,Delivered,1234,19.99,17.66,25.0,Yes,17.66,21792.44,2022,322211,0.49,False,False,10.6782956,Spend-based,Secondary
+PO-00481,Beta_Supplies,2022-11-09,2022-11-23,Office Supplies,Delivered,1329,33.48,33.06,146.0,Yes,33.06,43936.740000000005,2022,453210,0.163,False,False,7.1616886200000005,Spend-based,Secondary
+PO-00482,Gamma_Co,2022-08-22,2022-08-30,Raw Materials,Delivered,1396,77.63,67.81,58.0,Yes,67.81,94662.76000000001,2022,325199,1.51,False,False,142.94076760000002,Spend-based,Secondary
+PO-00483,Alpha_Inc,2022-08-17,2022-08-29,Raw Materials,Delivered,177,90.06,87.71,7.0,Yes,87.71,15524.669999999998,2022,325199,1.51,False,False,23.442251699999996,Spend-based,Secondary
+PO-00484,Delta_Logistics,2022-01-25,,Electronics,Delivered,67,84.72,73.06,9.0,Yes,73.06,4895.02,2022,334111,0.112,False,False,0.54824224,Spend-based,Secondary
+PO-00485,Gamma_Co,2023-11-07,2023-11-20,Office Supplies,Delivered,1866,50.78,48.2,96.0,Yes,48.2,89941.20000000001,2023,453210,0.163,False,False,14.660415600000002,Spend-based,Secondary
+PO-00486,Epsilon_Group,2022-07-17,2022-07-25,MRO,Delivered,1808,72.23,67.86,53.0,Yes,67.86,122690.88,2022,333999,0.26,False,False,31.899628800000002,Spend-based,Secondary
+PO-00489,Delta_Logistics,2022-10-13,2022-10-17,Office Supplies,Delivered,1396,94.75,84.06,210.0,Yes,84.06,117347.76000000001,2022,453210,0.163,False,False,19.12768488,Spend-based,Secondary
+PO-00490,Gamma_Co,2022-03-13,2022-03-24,MRO,Delivered,1945,11.28,9.98,94.0,Yes,9.98,19411.100000000002,2022,333999,0.26,False,False,5.046886000000001,Spend-based,Secondary
+PO-00491,Delta_Logistics,2022-10-13,2022-10-18,Packaging,Delivered,735,18.49,15.89,113.0,No,15.89,11679.15,2022,322211,0.49,False,False,5.722783499999999,Spend-based,Secondary
+PO-00495,Gamma_Co,2023-02-14,2023-02-15,Raw Materials,Delivered,903,66.53,60.15,29.0,Yes,60.15,54315.45,2023,325199,1.51,False,False,82.0163295,Spend-based,Secondary
+PO-00497,Beta_Supplies,2023-07-04,2023-07-11,MRO,Delivered,1011,98.47,97.06,91.0,Yes,97.06,98127.66,2023,333999,0.26,False,False,25.513191600000003,Spend-based,Secondary
+PO-00498,Delta_Logistics,2022-12-06,2022-12-24,Electronics,Delivered,1712,88.17,85.86,246.0,Yes,85.86,146992.32,2022,334111,0.112,False,False,16.46313984,Spend-based,Secondary
+PO-00499,Gamma_Co,2022-01-29,,Office Supplies,Delivered,204,40.76,37.46,10.0,Yes,37.46,7641.84,2022,453210,0.163,False,False,1.24561992,Spend-based,Secondary
+PO-00500,Beta_Supplies,2022-04-29,2022-05-13,Electronics,Partially Delivered,539,33.85,30.57,34.0,No,30.57,16477.23,2022,334111,0.112,False,False,1.84544976,Spend-based,Secondary
+PO-00501,Delta_Logistics,2022-09-25,2022-10-05,Office Supplies,Delivered,1459,45.94,42.56,212.0,No,42.56,62095.04,2022,453210,0.163,False,False,10.121491520000001,Spend-based,Secondary
+PO-00502,Gamma_Co,2022-07-02,2022-07-06,MRO,Delivered,834,65.02,56.19,,Yes,56.19,46862.46,2022,333999,0.26,False,False,12.184239600000002,Spend-based,Secondary
+PO-00503,Gamma_Co,2023-08-18,2023-09-01,Packaging,Partially Delivered,1177,37.37,34.27,60.0,Yes,34.27,40335.79,2023,322211,0.49,False,False,19.764537100000002,Spend-based,Secondary
+PO-00504,Delta_Logistics,2022-09-29,2022-10-19,MRO,Delivered,1466,68.82,66.82,211.0,Yes,66.82,97958.12,2022,333999,0.26,False,False,25.4691112,Spend-based,Secondary
+PO-00505,Epsilon_Group,2022-02-09,2022-02-13,Electronics,Delivered,1884,47.08,44.31,54.0,Yes,44.31,83480.04000000001,2022,334111,0.112,False,False,9.349764480000001,Spend-based,Secondary
+PO-00506,Beta_Supplies,2022-04-22,2022-05-08,Electronics,Delivered,295,60.58,57.32,31.0,Yes,57.32,16909.4,2022,334111,0.112,False,False,1.8938528000000001,Spend-based,Secondary
+PO-00507,Gamma_Co,2023-09-03,2023-09-04,Raw Materials,Delivered,1249,54.18,47.29,59.0,Yes,47.29,59065.21,2023,325199,1.51,False,False,89.1884671,Spend-based,Secondary
+PO-00508,Delta_Logistics,2023-03-21,2023-04-09,Raw Materials,Delivered,1112,39.06,33.6,184.0,No,33.6,37363.200000000004,2023,325199,1.51,False,False,56.41843200000001,Spend-based,Secondary
+PO-00509,Gamma_Co,2022-12-20,2022-12-25,Office Supplies,Delivered,1550,100.61,97.43,66.0,Yes,97.43,151016.5,2022,453210,0.163,False,False,24.615689500000002,Spend-based,Secondary
+PO-00510,Delta_Logistics,2022-11-18,2022-11-19,Electronics,Delivered,1755,82.66,73.67,258.0,No,73.67,129290.85,2022,334111,0.112,False,False,14.4805752,Spend-based,Secondary
+PO-00511,Gamma_Co,2023-03-23,2023-03-31,Raw Materials,Delivered,808,24.19,21.64,39.0,Yes,21.64,17485.12,2023,325199,1.51,False,False,26.4025312,Spend-based,Secondary
+PO-00512,Alpha_Inc,2023-09-13,2023-09-19,Raw Materials,Partially Delivered,587,96.98,95.35,14.0,Yes,95.35,55970.45,2023,325199,1.51,False,False,84.5153795,Spend-based,Secondary
+PO-00513,Epsilon_Group,2023-06-08,2023-06-11,MRO,Delivered,1940,58.45,50.29,54.0,Yes,50.29,97562.59999999999,2023,333999,0.26,False,False,25.366276,Spend-based,Secondary
+PO-00515,Epsilon_Group,2023-01-30,2023-02-16,Packaging,Delivered,970,86.91,78.44,18.0,Yes,78.44,76086.8,2023,322211,0.49,False,False,37.282531999999996,Spend-based,Secondary
+PO-00516,Epsilon_Group,2023-08-14,2023-08-31,MRO,Delivered,457,52.85,50.34,16.0,Yes,50.34,23005.38,2023,333999,0.26,False,False,5.981398800000001,Spend-based,Secondary
+PO-00518,Epsilon_Group,2022-09-18,2022-09-20,Office Supplies,Delivered,877,35.55,34.69,24.0,Yes,34.69,30423.129999999997,2022,453210,0.163,False,False,4.95897019,Spend-based,Secondary
+PO-00519,Alpha_Inc,2022-02-15,2022-02-27,MRO,Delivered,1579,59.04,50.95,29.0,Yes,50.95,80450.05,2022,333999,0.26,False,False,20.917013000000004,Spend-based,Secondary
+PO-00520,Delta_Logistics,2023-12-27,2023-12-28,Raw Materials,Delivered,952,74.72,69.73,,Yes,69.73,66382.96,2023,325199,1.51,False,False,100.23826960000001,Spend-based,Secondary
+PO-00522,Delta_Logistics,2022-01-02,2022-01-06,Packaging,Delivered,85,22.54,20.68,6.0,Yes,20.68,1757.8,2022,322211,0.49,False,False,0.861322,Spend-based,Secondary
+PO-00524,Alpha_Inc,2023-07-06,2023-07-18,Office Supplies,Delivered,69,107.47,105.53,,Yes,105.53,7281.57,2023,453210,0.163,False,False,1.18689591,Spend-based,Secondary
+PO-00525,Delta_Logistics,2023-12-05,2023-12-11,Packaging,Delivered,370,63.9,55.79,59.0,Yes,55.79,20642.3,2023,322211,0.49,False,False,10.114726999999998,Spend-based,Secondary
+PO-00526,Delta_Logistics,2023-11-18,2023-12-03,MRO,Delivered,1849,28.25,27.53,271.0,Yes,27.53,50902.97,2023,333999,0.26,False,False,13.234772200000002,Spend-based,Secondary
+PO-00527,Beta_Supplies,2022-07-21,,Packaging,Delivered,561,35.54,30.99,68.0,No,30.99,17385.39,2022,322211,0.49,False,False,8.5188411,Spend-based,Secondary
+PO-00528,Gamma_Co,2023-01-08,2023-01-14,Electronics,Delivered,449,12.35,10.67,29.0,Yes,10.67,4790.83,2023,334111,0.112,False,False,0.53657296,Spend-based,Secondary
+PO-00529,Beta_Supplies,2023-03-18,2023-03-21,Office Supplies,Delivered,703,98.75,86.78,59.0,Yes,86.78,61006.340000000004,2023,453210,0.163,False,False,9.944033420000002,Spend-based,Secondary
+PO-00530,Gamma_Co,2022-03-13,2022-03-28,Electronics,Delivered,1021,20.8,18.23,37.0,Yes,18.23,18612.83,2022,334111,0.112,False,False,2.08463696,Spend-based,Secondary
+PO-00531,Beta_Supplies,2023-11-12,2023-11-19,Office Supplies,Delivered,1956,68.69,65.09,,Yes,65.09,127316.04000000001,2023,453210,0.163,False,False,20.752514520000002,Spend-based,Secondary
+PO-00532,Delta_Logistics,2022-12-05,2022-12-12,Office Supplies,Partially Delivered,520,36.57,34.78,67.0,No,34.78,18085.600000000002,2022,453210,0.163,False,False,2.9479528000000004,Spend-based,Secondary
+PO-00533,Delta_Logistics,2023-10-01,2023-10-12,MRO,Delivered,1216,66.16,63.0,179.0,No,63.0,76608.0,2023,333999,0.26,False,False,19.918080000000003,Spend-based,Secondary
+PO-00534,Alpha_Inc,2022-11-18,,Raw Materials,Delivered,1165,72.06,63.93,,Yes,63.93,74478.45,2022,325199,1.51,False,False,112.4624595,Spend-based,Secondary
+PO-00536,Epsilon_Group,2022-05-08,2022-05-10,Electronics,Delivered,883,29.15,25.75,14.0,Yes,25.75,22737.25,2022,334111,0.112,False,False,2.5465720000000003,Spend-based,Secondary
+PO-00537,Delta_Logistics,2022-11-04,2022-11-11,Packaging,Partially Delivered,1873,11.54,9.89,284.0,No,9.89,18523.97,2022,322211,0.49,False,False,9.0767453,Spend-based,Secondary
+PO-00538,Epsilon_Group,2023-06-04,2023-06-06,Office Supplies,Delivered,776,24.22,22.53,27.0,Yes,22.53,17483.280000000002,2023,453210,0.163,False,False,2.8497746400000006,Spend-based,Secondary
+PO-00539,Delta_Logistics,2022-11-13,2022-11-24,Electronics,Delivered,903,95.55,92.45,149.0,No,92.45,83482.35,2022,334111,0.112,False,False,9.3500232,Spend-based,Secondary
+PO-00540,Epsilon_Group,2023-11-14,2023-11-26,Electronics,Delivered,100,98.4,85.76,3.0,Yes,85.76,8576.0,2023,334111,0.112,False,False,0.960512,Spend-based,Secondary
+PO-00541,Epsilon_Group,2023-02-23,2023-03-08,Office Supplies,Delivered,1738,67.91,61.15,,Yes,61.15,106278.7,2023,453210,0.163,False,False,17.3234281,Spend-based,Secondary
+PO-00542,Delta_Logistics,2022-12-01,2022-12-14,Packaging,Delivered,1771,67.57,61.48,280.0,No,61.48,108881.07999999999,2022,322211,0.49,False,False,53.351729199999994,Spend-based,Secondary
+PO-00543,Epsilon_Group,2023-02-17,2023-02-23,Electronics,Delivered,624,74.39,66.3,18.0,No,66.3,41371.2,2023,334111,0.112,False,False,4.6335744,Spend-based,Secondary
+PO-00544,Alpha_Inc,2023-12-15,2023-12-31,Packaging,Partially Delivered,1263,28.75,27.1,26.0,Yes,27.1,34227.3,2023,322211,0.49,False,False,16.771377,Spend-based,Secondary
+PO-00546,Epsilon_Group,2023-07-22,2023-07-25,Raw Materials,Delivered,199,51.98,45.64,,No,45.64,9082.36,2023,325199,1.51,False,False,13.7143636,Spend-based,Secondary
+PO-00548,Alpha_Inc,2022-07-16,2022-07-22,Office Supplies,Delivered,619,58.4,51.04,,Yes,51.04,31593.76,2022,453210,0.163,False,False,5.14978288,Spend-based,Secondary
+PO-00549,Alpha_Inc,2023-03-07,2023-03-18,MRO,Delivered,1415,15.22,13.56,30.0,Yes,13.56,19187.4,2023,333999,0.26,False,False,4.988724,Spend-based,Secondary
+PO-00550,Beta_Supplies,2023-11-12,2023-11-23,Packaging,Delivered,354,27.71,23.87,39.0,No,23.87,8449.98,2023,322211,0.49,False,False,4.1404901999999995,Spend-based,Secondary
+PO-00551,Gamma_Co,2023-01-24,2023-02-03,MRO,Delivered,1765,81.01,78.43,78.0,Yes,78.43,138428.95,2023,333999,0.26,False,False,35.991527000000005,Spend-based,Secondary
+PO-00552,Beta_Supplies,2023-11-25,2023-12-09,MRO,Delivered,731,19.37,17.3,69.0,No,17.3,12646.300000000001,2023,333999,0.26,False,False,3.2880380000000007,Spend-based,Secondary
+PO-00553,Epsilon_Group,2022-06-28,2022-07-13,MRO,Delivered,887,65.89,59.67,29.0,Yes,59.67,52927.29,2022,333999,0.26,False,False,13.7610954,Spend-based,Secondary
+PO-00554,Alpha_Inc,2023-09-23,2023-09-25,MRO,Delivered,1856,35.29,32.41,26.0,Yes,32.41,60152.95999999999,2023,333999,0.26,False,False,15.639769599999997,Spend-based,Secondary
+PO-00555,Epsilon_Group,2023-08-06,2023-08-18,Office Supplies,Delivered,1127,49.32,46.49,30.0,Yes,46.49,52394.23,2023,453210,0.163,False,False,8.54025949,Spend-based,Secondary
+PO-00556,Delta_Logistics,2022-11-05,2022-11-19,Raw Materials,Delivered,1052,37.78,32.6,162.0,Yes,32.6,34295.200000000004,2022,325199,1.51,False,False,51.78575200000001,Spend-based,Secondary
+PO-00557,Gamma_Co,2023-02-20,2023-02-22,Raw Materials,Delivered,493,44.74,41.44,24.0,No,41.44,20429.92,2023,325199,1.51,False,False,30.8491792,Spend-based,Secondary
+PO-00558,Delta_Logistics,2023-07-16,2023-07-29,MRO,Partially Delivered,662,81.44,71.33,87.0,Yes,71.33,47220.46,2023,333999,0.26,False,False,12.2773196,Spend-based,Secondary
+PO-00559,Alpha_Inc,2022-01-01,2022-01-07,Raw Materials,Delivered,1042,36.74,35.78,33.0,Yes,35.78,37282.76,2022,325199,1.51,False,False,56.2969676,Spend-based,Secondary
+PO-00560,Alpha_Inc,2022-11-08,,Raw Materials,Delivered,313,64.03,57.74,1.0,Yes,57.74,18072.62,2022,325199,1.51,False,False,27.289656199999996,Spend-based,Secondary
+PO-00561,Alpha_Inc,2022-10-21,2022-11-10,Office Supplies,Delivered,1126,55.22,50.38,,Yes,50.38,56727.880000000005,2022,453210,0.163,False,False,9.246644440000003,Spend-based,Secondary
+PO-00562,Gamma_Co,2022-08-04,2022-08-19,MRO,Delivered,1645,72.17,64.0,79.0,Yes,64.0,105280.0,2022,333999,0.26,False,False,27.372799999999998,Spend-based,Secondary
+PO-00563,Beta_Supplies,2023-03-17,2023-03-20,Packaging,Delivered,1053,100.92,92.35,104.0,Yes,92.35,97244.54999999999,2023,322211,0.49,False,False,47.649829499999996,Spend-based,Secondary
+PO-00564,Epsilon_Group,2023-08-17,2023-08-29,MRO,Delivered,1693,83.14,73.3,62.0,Yes,73.3,124096.9,2023,333999,0.26,False,False,32.265194,Spend-based,Secondary
+PO-00566,Epsilon_Group,2023-11-02,2023-11-07,Packaging,Delivered,1176,14.22,12.21,33.0,Yes,12.21,14358.960000000001,2023,322211,0.49,False,False,7.0358904,Spend-based,Secondary
+PO-00567,Epsilon_Group,2022-11-26,2022-12-08,Raw Materials,Delivered,1269,35.28,33.7,35.0,Yes,33.7,42765.3,2022,325199,1.51,False,False,64.575603,Spend-based,Secondary
+PO-00568,Epsilon_Group,2023-04-22,2023-04-25,Raw Materials,Delivered,823,68.32,64.46,19.0,Yes,64.46,53050.579999999994,2023,325199,1.51,False,False,80.1063758,Spend-based,Secondary
+PO-00569,Beta_Supplies,2023-03-29,2023-04-15,Electronics,Delivered,926,15.65,13.49,94.0,No,13.49,12491.74,2023,334111,0.112,False,False,1.39907488,Spend-based,Secondary
+PO-00572,Delta_Logistics,2022-08-07,,Raw Materials,Delivered,1423,41.48,40.9,199.0,Yes,40.9,58200.7,2022,325199,1.51,False,False,87.883057,Spend-based,Secondary
+PO-00573,Delta_Logistics,2023-06-08,2023-06-14,MRO,Delivered,96,86.13,80.32,12.0,No,80.32,7710.719999999999,2023,333999,0.26,False,False,2.0047872,Spend-based,Secondary
+PO-00574,Epsilon_Group,2023-04-30,2023-05-13,MRO,Delivered,916,21.06,19.53,25.0,Yes,19.53,17889.48,2023,333999,0.26,False,False,4.6512648,Spend-based,Secondary
+PO-00575,Epsilon_Group,2022-06-23,,Raw Materials,Delivered,872,17.18,16.63,20.0,Yes,16.63,14501.359999999999,2022,325199,1.51,False,False,21.8970536,Spend-based,Secondary
+PO-00576,Beta_Supplies,2023-11-06,2023-11-15,Electronics,Delivered,985,83.85,80.88,,No,80.88,79666.79999999999,2023,334111,0.112,False,False,8.922681599999999,Spend-based,Secondary
+PO-00577,Gamma_Co,2022-03-28,2022-04-04,Raw Materials,Delivered,1893,55.14,50.1,98.0,Yes,50.1,94839.3,2022,325199,1.51,False,False,143.20734299999998,Spend-based,Secondary
+PO-00578,Alpha_Inc,2022-10-18,,MRO,Delivered,705,75.19,69.55,19.0,Yes,69.55,49032.75,2022,333999,0.26,False,False,12.748515000000001,Spend-based,Secondary
+PO-00579,Delta_Logistics,2023-06-12,2023-06-28,MRO,Delivered,318,53.31,51.78,,No,51.78,16466.04,2023,333999,0.26,False,False,4.2811704,Spend-based,Secondary
+PO-00581,Gamma_Co,2023-10-11,2023-10-26,MRO,Delivered,685,92.51,90.05,38.0,Yes,90.05,61684.25,2023,333999,0.26,False,False,16.037905000000002,Spend-based,Secondary
+PO-00582,Delta_Logistics,2023-09-27,2023-10-12,Office Supplies,Partially Delivered,1179,90.14,82.63,194.0,Yes,82.63,97420.76999999999,2023,453210,0.163,False,False,15.879585509999998,Spend-based,Secondary
+PO-00583,Alpha_Inc,2022-12-10,,Raw Materials,Delivered,1743,76.51,65.88,40.0,Yes,65.88,114828.84,2022,325199,1.51,False,False,173.3915484,Spend-based,Secondary
+PO-00584,Alpha_Inc,2022-04-06,2022-04-17,MRO,Delivered,1732,35.01,34.18,40.0,Yes,34.18,59199.76,2022,333999,0.26,False,False,15.3919376,Spend-based,Secondary
+PO-00585,Beta_Supplies,2022-08-29,2022-09-01,Office Supplies,Delivered,706,65.33,62.06,60.0,No,62.06,43814.36,2022,453210,0.163,False,False,7.141740680000001,Spend-based,Secondary
+PO-00588,Gamma_Co,2022-08-19,2022-08-25,MRO,Delivered,1860,95.8,92.17,105.0,No,92.17,171436.2,2022,333999,0.26,False,False,44.573412000000005,Spend-based,Secondary
+PO-00589,Delta_Logistics,2022-07-23,2022-08-09,MRO,Delivered,1677,22.98,21.71,246.0,Yes,21.71,36407.67,2022,333999,0.26,False,False,9.465994199999999,Spend-based,Secondary
+PO-00590,Beta_Supplies,2022-05-31,2022-06-07,Packaging,Partially Delivered,1131,97.43,91.28,103.0,Yes,91.28,103237.68000000001,2022,322211,0.49,False,False,50.586463200000004,Spend-based,Secondary
+PO-00595,Alpha_Inc,2023-09-18,2023-09-21,Electronics,Delivered,1903,83.49,82.33,43.0,Yes,82.33,156673.99,2023,334111,0.112,False,False,17.54748688,Spend-based,Secondary
+PO-00596,Delta_Logistics,2022-03-16,2022-03-29,Office Supplies,Partially Delivered,840,83.42,80.35,153.0,Yes,80.35,67494.0,2022,453210,0.163,False,False,11.001522000000001,Spend-based,Secondary
+PO-00597,Delta_Logistics,2023-04-12,,MRO,Delivered,1200,74.49,64.63,161.0,Yes,64.63,77556.0,2023,333999,0.26,False,False,20.16456,Spend-based,Secondary
+PO-00598,Gamma_Co,2023-03-01,2023-03-18,Raw Materials,Delivered,1466,77.37,70.35,72.0,Yes,70.35,103133.09999999999,2023,325199,1.51,False,False,155.73098099999999,Spend-based,Secondary
+PO-00599,Alpha_Inc,2023-10-07,2023-10-21,Office Supplies,Delivered,1981,95.5,94.39,49.0,Yes,94.39,186986.59,2023,453210,0.163,False,False,30.47881417,Spend-based,Secondary
+PO-00600,Gamma_Co,2023-08-13,2023-08-16,Packaging,Delivered,1062,35.55,32.38,,Yes,32.38,34387.560000000005,2023,322211,0.49,False,False,16.849904400000003,Spend-based,Secondary
+PO-00601,Alpha_Inc,2022-07-19,2022-07-30,MRO,Delivered,1714,55.67,55.09,42.0,Yes,55.09,94424.26000000001,2022,333999,0.26,False,False,24.550307600000004,Spend-based,Secondary
+PO-00602,Alpha_Inc,2023-12-15,2023-12-30,Office Supplies,Delivered,1131,33.35,31.28,23.0,Yes,31.28,35377.68,2023,453210,0.163,False,False,5.7665618400000005,Spend-based,Secondary
+PO-00603,Alpha_Inc,2023-01-29,2023-02-15,Office Supplies,Delivered,683,104.82,101.34,,Yes,101.34,69215.22,2023,453210,0.163,False,False,11.28208086,Spend-based,Secondary
+PO-00604,Gamma_Co,2023-05-22,2023-06-09,Packaging,Partially Delivered,562,102.56,90.88,38.0,Yes,90.88,51074.56,2023,322211,0.49,False,False,25.026534399999996,Spend-based,Secondary
+PO-00605,Alpha_Inc,2023-02-14,2023-02-20,Electronics,Delivered,1824,14.43,14.11,36.0,Yes,14.11,25736.64,2023,334111,0.112,False,False,2.8825036799999997,Spend-based,Secondary
+PO-00606,Beta_Supplies,2022-09-07,2022-09-12,Electronics,Partially Delivered,851,76.44,74.76,91.0,Yes,74.76,63620.76,2022,334111,0.112,False,False,7.12552512,Spend-based,Secondary
+PO-00607,Beta_Supplies,2022-06-01,2022-06-03,Office Supplies,Delivered,1169,95.6,82.16,103.0,Yes,82.16,96045.04,2022,453210,0.163,False,False,15.65534152,Spend-based,Secondary
+PO-00608,Epsilon_Group,2023-11-03,2023-11-20,MRO,Delivered,1711,29.14,26.35,48.0,Yes,26.35,45084.850000000006,2023,333999,0.26,False,False,11.722061000000002,Spend-based,Secondary
+PO-00610,Epsilon_Group,2022-01-06,2022-01-14,Electronics,Delivered,609,92.39,82.75,29.0,Yes,82.75,50394.75,2022,334111,0.112,False,False,5.6442120000000005,Spend-based,Secondary
+PO-00611,Beta_Supplies,2022-04-20,2022-05-07,Office Supplies,Delivered,1674,13.25,11.77,181.0,Yes,11.77,19702.98,2022,453210,0.163,False,False,3.21158574,Spend-based,Secondary
+PO-00612,Gamma_Co,2023-03-12,2023-03-15,MRO,Delivered,537,77.86,71.18,20.0,Yes,71.18,38223.66,2023,333999,0.26,False,False,9.938151600000001,Spend-based,Secondary
+PO-00613,Epsilon_Group,2022-08-13,2022-08-31,Electronics,Delivered,1310,38.05,37.0,45.0,Yes,37.0,48470.0,2022,334111,0.112,False,False,5.428640000000001,Spend-based,Secondary
+PO-00614,Delta_Logistics,2022-06-30,2022-07-10,Raw Materials,Delivered,1958,95.53,91.72,308.0,Yes,91.72,179587.76,2022,325199,1.51,False,False,271.17751760000004,Spend-based,Secondary
+PO-00615,Delta_Logistics,2023-12-14,2023-12-17,Office Supplies,Delivered,946,108.6,101.78,146.0,Yes,101.78,96283.88,2023,453210,0.163,False,False,15.69427244,Spend-based,Secondary
+PO-00616,Beta_Supplies,2023-06-15,2023-06-21,Packaging,Partially Delivered,1345,103.06,95.14,,Yes,95.14,127963.3,2023,322211,0.49,False,False,62.702017,Spend-based,Secondary
+PO-00617,Delta_Logistics,2023-04-21,2023-05-10,MRO,Delivered,1262,56.63,51.46,,No,51.46,64942.520000000004,2023,333999,0.26,False,False,16.885055200000004,Spend-based,Secondary
+PO-00619,Beta_Supplies,2023-07-25,2023-08-14,Electronics,Delivered,1520,93.75,81.63,149.0,Yes,81.63,124077.59999999999,2023,334111,0.112,False,False,13.8966912,Spend-based,Secondary
+PO-00620,Delta_Logistics,2022-09-13,2022-10-02,Office Supplies,Delivered,630,40.27,37.54,76.0,Yes,37.54,23650.2,2022,453210,0.163,False,False,3.8549826000000005,Spend-based,Secondary
+PO-00621,Delta_Logistics,2022-05-05,2022-05-06,Office Supplies,Delivered,839,86.29,82.51,110.0,Yes,82.51,69225.89,2022,453210,0.163,False,False,11.283820069999999,Spend-based,Secondary
+PO-00622,Alpha_Inc,2023-04-13,2023-05-02,Electronics,Delivered,910,14.33,14.07,27.0,Yes,14.07,12803.7,2023,334111,0.112,False,False,1.4340144000000001,Spend-based,Secondary
+PO-00623,Epsilon_Group,2022-05-17,2022-05-24,Raw Materials,Delivered,296,64.94,63.61,,Yes,63.61,18828.56,2022,325199,1.51,False,False,28.4311256,Spend-based,Secondary
+PO-00624,Beta_Supplies,2023-04-21,2023-05-05,MRO,Delivered,1149,33.0,30.65,141.0,Yes,30.65,35216.85,2023,333999,0.26,False,False,9.156381,Spend-based,Secondary
+PO-00625,Delta_Logistics,2023-11-15,2023-11-16,Electronics,Delivered,203,23.14,20.0,,No,20.0,4060.0,2023,334111,0.112,False,False,0.45472,Spend-based,Secondary
+PO-00626,Epsilon_Group,2023-06-28,2023-07-16,Office Supplies,Delivered,1729,18.36,16.34,47.0,Yes,16.34,28251.86,2023,453210,0.163,False,False,4.60505318,Spend-based,Secondary
+PO-00627,Delta_Logistics,2023-07-27,2023-08-06,Office Supplies,Delivered,1508,79.21,73.27,226.0,Yes,73.27,110491.15999999999,2023,453210,0.163,False,False,18.010059079999998,Spend-based,Secondary
+PO-00628,Delta_Logistics,2023-09-02,2023-09-15,Packaging,Partially Delivered,1046,44.65,40.1,165.0,No,40.1,41944.6,2023,322211,0.49,False,False,20.552854,Spend-based,Secondary
+PO-00629,Alpha_Inc,2022-11-21,2022-11-24,Office Supplies,Delivered,1159,78.99,71.69,14.0,Yes,71.69,83088.70999999999,2022,453210,0.163,False,False,13.543459729999999,Spend-based,Secondary
+PO-00630,Beta_Supplies,2023-03-30,2023-04-05,Electronics,Delivered,746,16.99,15.35,69.0,No,15.35,11451.1,2023,334111,0.112,False,False,1.2825232000000002,Spend-based,Secondary
+PO-00631,Beta_Supplies,2023-09-20,2023-10-06,Packaging,Delivered,1358,42.21,38.75,128.0,Yes,38.75,52622.5,2023,322211,0.49,False,False,25.785024999999997,Spend-based,Secondary
+PO-00632,Gamma_Co,2023-06-01,2023-06-12,Office Supplies,Delivered,1293,63.53,59.42,79.0,Yes,59.42,76830.06,2023,453210,0.163,False,False,12.523299779999999,Spend-based,Secondary
+PO-00633,Alpha_Inc,2023-03-13,2023-03-24,Electronics,Delivered,1142,86.85,74.28,30.0,Yes,74.28,84827.76,2023,334111,0.112,False,False,9.50070912,Spend-based,Secondary
+PO-00634,Epsilon_Group,2023-07-16,2023-07-27,MRO,Delivered,1120,42.17,37.47,33.0,Yes,37.47,41966.4,2023,333999,0.26,False,False,10.911264000000001,Spend-based,Secondary
+PO-00635,Alpha_Inc,2023-04-02,2023-04-14,MRO,Delivered,1058,71.3,62.04,,Yes,62.04,65638.31999999999,2023,333999,0.26,False,False,17.0659632,Spend-based,Secondary
+PO-00636,Epsilon_Group,2022-06-12,,Office Supplies,Delivered,143,91.98,86.02,5.0,Yes,86.02,12300.859999999999,2022,453210,0.163,False,False,2.00504018,Spend-based,Secondary
+PO-00637,Beta_Supplies,2023-05-02,2023-05-14,MRO,Delivered,1823,70.66,66.92,202.0,Yes,66.92,121995.16,2023,333999,0.26,False,False,31.7187416,Spend-based,Secondary
+PO-00638,Gamma_Co,2023-04-06,2023-04-10,Office Supplies,Delivered,1007,33.29,28.48,49.0,Yes,28.48,28679.36,2023,453210,0.163,False,False,4.67473568,Spend-based,Secondary
+PO-00639,Gamma_Co,2022-09-23,2022-10-08,Packaging,Delivered,1061,12.68,12.36,56.0,No,12.36,13113.96,2022,322211,0.49,False,False,6.425840399999999,Spend-based,Secondary
+PO-00641,Delta_Logistics,2023-10-15,2023-10-19,Packaging,Delivered,1277,13.17,11.63,199.0,No,11.63,14851.51,2023,322211,0.49,False,False,7.2772399,Spend-based,Secondary
+PO-00642,Alpha_Inc,2022-10-11,2022-10-24,Packaging,Delivered,961,92.72,88.49,22.0,Yes,88.49,85038.89,2022,322211,0.49,False,False,41.6690561,Spend-based,Secondary
+PO-00643,Gamma_Co,2023-06-18,2023-07-02,Packaging,Delivered,267,62.5,61.18,17.0,Yes,61.18,16335.06,2023,322211,0.49,False,False,8.0041794,Spend-based,Secondary
+PO-00646,Gamma_Co,2022-09-02,2022-09-09,Office Supplies,Delivered,390,103.81,100.12,20.0,Yes,100.12,39046.8,2022,453210,0.163,False,False,6.364628400000001,Spend-based,Secondary
+PO-00647,Epsilon_Group,2022-10-09,2022-10-25,Packaging,Delivered,600,43.43,38.76,22.0,Yes,38.76,23256.0,2022,322211,0.49,False,False,11.39544,Spend-based,Secondary
+PO-00648,Delta_Logistics,2023-03-27,,Office Supplies,Delivered,1685,84.58,75.21,253.0,No,75.21,126728.84999999999,2023,453210,0.163,False,False,20.656802550000002,Spend-based,Secondary
+PO-00651,Epsilon_Group,2022-10-20,,MRO,Delivered,1807,69.47,60.0,50.0,Yes,60.0,108420.0,2022,333999,0.26,False,False,28.1892,Spend-based,Secondary
+PO-00653,Gamma_Co,2022-10-06,2022-10-18,Raw Materials,Partially Delivered,72,103.0,89.49,1.0,No,89.49,6443.28,2022,325199,1.51,False,False,9.729352800000001,Spend-based,Secondary
+PO-00654,Gamma_Co,2022-12-10,2022-12-20,Office Supplies,Delivered,1835,83.5,82.36,85.0,No,82.36,151130.6,2022,453210,0.163,False,False,24.634287800000003,Spend-based,Secondary
+PO-00656,Epsilon_Group,2023-07-08,2023-07-09,Packaging,Delivered,1831,52.24,50.44,60.0,Yes,50.44,92355.64,2023,322211,0.49,False,False,45.2542636,Spend-based,Secondary
+PO-00658,Gamma_Co,2022-05-22,2022-05-31,Electronics,Partially Delivered,1173,32.12,29.18,,Yes,29.18,34228.14,2022,334111,0.112,False,False,3.8335516800000002,Spend-based,Secondary
+PO-00659,Epsilon_Group,2022-06-04,2022-06-17,Packaging,Partially Delivered,851,20.44,19.22,22.0,Yes,19.22,16356.22,2022,322211,0.49,False,False,8.014547799999999,Spend-based,Secondary
+PO-00661,Alpha_Inc,2023-01-28,2023-02-15,Electronics,Delivered,1296,38.0,33.42,33.0,Yes,33.42,43312.32,2023,334111,0.112,False,False,4.85097984,Spend-based,Secondary
+PO-00662,Beta_Supplies,2023-12-12,2023-12-30,Raw Materials,Delivered,1979,40.88,39.46,221.0,Yes,39.46,78091.34,2023,325199,1.51,False,False,117.9179234,Spend-based,Secondary
+PO-00663,Gamma_Co,2022-06-06,2022-06-19,Office Supplies,Delivered,811,31.8,30.33,58.0,Yes,30.33,24597.629999999997,2022,453210,0.163,False,False,4.00941369,Spend-based,Secondary
+PO-00664,Alpha_Inc,2023-12-25,2024-01-12,Electronics,Delivered,1732,15.37,14.7,38.0,Yes,14.7,25460.399999999998,2023,334111,0.112,False,False,2.8515648,Spend-based,Secondary
+PO-00665,Beta_Supplies,2022-08-08,2022-08-28,Packaging,Delivered,491,12.01,11.67,47.0,Yes,11.67,5729.97,2022,322211,0.49,False,False,2.8076853,Spend-based,Secondary
+PO-00667,Alpha_Inc,2023-03-01,2023-03-05,Raw Materials,Partially Delivered,818,51.89,47.85,12.0,Yes,47.85,39141.3,2023,325199,1.51,False,False,59.103363,Spend-based,Secondary
+PO-00668,Beta_Supplies,2023-02-22,2023-03-05,Office Supplies,Delivered,1065,47.49,41.42,113.0,Yes,41.42,44112.3,2023,453210,0.163,False,False,7.190304900000001,Spend-based,Secondary
+PO-00669,Gamma_Co,2022-12-05,2022-12-17,Packaging,Delivered,1398,75.08,67.09,57.0,Yes,67.09,93791.82,2022,322211,0.49,False,False,45.9579918,Spend-based,Secondary
+PO-00670,Beta_Supplies,2023-07-10,2023-07-17,Packaging,Delivered,565,32.31,29.76,60.0,Yes,29.76,16814.4,2023,322211,0.49,False,False,8.239056,Spend-based,Secondary
+PO-00672,Delta_Logistics,2023-03-02,2023-03-04,Electronics,Delivered,841,86.43,83.77,125.0,No,83.77,70450.56999999999,2023,334111,0.112,False,False,7.89046384,Spend-based,Secondary
+PO-00673,Delta_Logistics,2022-03-05,2022-03-16,Electronics,Delivered,385,18.23,17.74,,Yes,17.74,6829.9,2022,334111,0.112,False,False,0.7649488,Spend-based,Secondary
+PO-00674,Epsilon_Group,2022-07-31,2022-08-17,Office Supplies,Delivered,1832,49.01,41.86,52.0,Yes,41.86,76687.52,2022,453210,0.163,False,False,12.500065760000002,Spend-based,Secondary
+PO-00675,Beta_Supplies,2023-03-07,2023-03-27,Raw Materials,Delivered,307,95.36,83.63,29.0,Yes,83.63,25674.41,2023,325199,1.51,False,False,38.768359100000005,Spend-based,Secondary
+PO-00676,Epsilon_Group,2023-02-03,2023-02-08,Office Supplies,Delivered,546,101.2,97.82,21.0,Yes,97.82,53409.719999999994,2023,453210,0.163,False,False,8.705784359999999,Spend-based,Secondary
+PO-00677,Delta_Logistics,2023-08-22,2023-09-11,Raw Materials,Delivered,945,57.01,55.14,147.0,No,55.14,52107.3,2023,325199,1.51,False,False,78.682023,Spend-based,Secondary
+PO-00679,Beta_Supplies,2022-01-21,,Packaging,Delivered,1548,25.03,22.87,,Yes,22.87,35402.76,2022,322211,0.49,False,False,17.3473524,Spend-based,Secondary
+PO-00680,Delta_Logistics,2023-08-13,2023-08-23,Raw Materials,Delivered,901,108.63,106.3,141.0,Yes,106.3,95776.3,2023,325199,1.51,False,False,144.62221300000002,Spend-based,Secondary
+PO-00681,Epsilon_Group,2023-01-25,2023-02-11,Packaging,Delivered,1737,32.7,31.02,48.0,Yes,31.02,53881.74,2023,322211,0.49,False,False,26.402052599999998,Spend-based,Secondary
+PO-00682,Beta_Supplies,2023-05-04,2023-05-22,Raw Materials,Delivered,1981,102.43,90.99,204.0,Yes,90.99,180251.19,2023,325199,1.51,False,False,272.1792969,Spend-based,Secondary
+PO-00684,Beta_Supplies,2022-12-27,2022-12-28,Raw Materials,Delivered,1748,68.25,62.84,171.0,Yes,62.84,109844.32,2022,325199,1.51,False,False,165.86492320000002,Spend-based,Secondary
+PO-00686,Gamma_Co,2023-02-04,,Electronics,Delivered,1618,32.76,28.41,62.0,Yes,28.41,45967.38,2023,334111,0.112,False,False,5.14834656,Spend-based,Secondary
+PO-00687,Beta_Supplies,2023-03-06,2023-03-07,Packaging,Delivered,1006,27.7,23.66,101.0,No,23.66,23801.96,2023,322211,0.49,False,False,11.6629604,Spend-based,Secondary
+PO-00688,Beta_Supplies,2023-07-06,2023-07-15,Electronics,Partially Delivered,740,32.53,29.35,84.0,Yes,29.35,21719.0,2023,334111,0.112,False,False,2.4325280000000005,Spend-based,Secondary
+PO-00689,Gamma_Co,2023-07-14,,Raw Materials,Delivered,1500,29.19,27.24,72.0,Yes,27.24,40860.0,2023,325199,1.51,False,False,61.6986,Spend-based,Secondary
+PO-00693,Gamma_Co,2022-08-13,2022-09-02,MRO,Partially Delivered,1650,100.62,90.45,85.0,Yes,90.45,149242.5,2022,333999,0.26,False,False,38.803050000000006,Spend-based,Secondary
+PO-00694,Alpha_Inc,2022-10-07,2022-10-20,MRO,Delivered,1490,93.57,81.68,29.0,Yes,81.68,121703.20000000001,2022,333999,0.26,False,False,31.642832000000006,Spend-based,Secondary
+PO-00695,Delta_Logistics,2023-03-23,2023-03-31,Raw Materials,Delivered,1241,100.04,97.56,187.0,Yes,97.56,121071.96,2023,325199,1.51,False,False,182.81865960000002,Spend-based,Secondary
+PO-00696,Beta_Supplies,2023-05-13,2023-05-17,MRO,Delivered,1915,107.51,102.66,184.0,Yes,102.66,196593.9,2023,333999,0.26,False,False,51.114414,Spend-based,Secondary
+PO-00697,Beta_Supplies,2022-01-30,2022-02-14,Raw Materials,Delivered,1116,25.65,24.28,121.0,Yes,24.28,27096.48,2022,325199,1.51,False,False,40.9156848,Spend-based,Secondary
+PO-00698,Delta_Logistics,2023-02-03,2023-02-08,Raw Materials,Delivered,1629,48.63,43.28,260.0,Yes,43.28,70503.12,2023,325199,1.51,False,False,106.45971119999999,Spend-based,Secondary
+PO-00699,Epsilon_Group,2022-12-11,2022-12-18,Office Supplies,Delivered,334,82.54,74.63,,Yes,74.63,24926.42,2022,453210,0.163,False,False,4.06300646,Spend-based,Secondary
+PO-00700,Epsilon_Group,2023-11-16,2023-12-06,Packaging,Delivered,446,80.63,70.37,,Yes,70.37,31385.02,2023,322211,0.49,False,False,15.3786598,Spend-based,Secondary
+PO-00701,Delta_Logistics,2023-11-27,,Electronics,Delivered,61,26.47,24.62,6.0,Yes,24.62,1501.8200000000002,2023,334111,0.112,False,False,0.16820384000000002,Spend-based,Secondary
+PO-00702,Delta_Logistics,2023-02-19,2023-02-21,Packaging,Delivered,1680,88.85,87.53,,Yes,87.53,147050.4,2023,322211,0.49,False,False,72.05469599999999,Spend-based,Secondary
+PO-00703,Delta_Logistics,2022-06-19,2022-07-06,Electronics,Delivered,1375,30.95,30.02,223.0,Yes,30.02,41277.5,2022,334111,0.112,False,False,4.62308,Spend-based,Secondary
+PO-00704,Delta_Logistics,2023-04-24,2023-05-05,Electronics,Partially Delivered,1971,32.4,30.48,321.0,Yes,30.48,60076.08,2023,334111,0.112,False,False,6.728520960000001,Spend-based,Secondary
+PO-00707,Beta_Supplies,2023-07-01,2023-07-07,MRO,Delivered,803,67.81,61.53,78.0,Yes,61.53,49408.590000000004,2023,333999,0.26,False,False,12.846233400000001,Spend-based,Secondary
+PO-00708,Alpha_Inc,2022-01-28,2022-02-15,MRO,Delivered,84,18.23,15.55,0.0,Yes,15.55,1306.2,2022,333999,0.26,False,False,0.339612,Spend-based,Secondary
+PO-00709,Epsilon_Group,2023-02-08,2023-02-20,Packaging,Delivered,776,94.75,90.89,19.0,Yes,90.89,70530.64,2023,322211,0.49,False,False,34.5600136,Spend-based,Secondary
+PO-00710,Alpha_Inc,2023-08-30,2023-09-08,MRO,Delivered,898,37.12,35.54,18.0,No,35.54,31914.92,2023,333999,0.26,False,False,8.297879199999999,Spend-based,Secondary
+PO-00712,Gamma_Co,2023-11-10,,Raw Materials,Delivered,825,99.89,97.65,30.0,Yes,97.65,80561.25,2023,325199,1.51,False,False,121.6474875,Spend-based,Secondary
+PO-00713,Alpha_Inc,2022-01-28,2022-02-07,MRO,Delivered,654,96.01,90.31,10.0,Yes,90.31,59062.74,2022,333999,0.26,False,False,15.3563124,Spend-based,Secondary
+PO-00714,Gamma_Co,2022-03-27,2022-04-06,MRO,Delivered,1995,88.47,82.65,87.0,No,82.65,164886.75,2022,333999,0.26,False,False,42.870555,Spend-based,Secondary
+PO-00715,Beta_Supplies,2023-10-21,2023-10-28,MRO,Delivered,1019,91.56,77.93,111.0,No,77.93,79410.67000000001,2023,333999,0.26,False,False,20.646774200000003,Spend-based,Secondary
+PO-00718,Beta_Supplies,2023-04-18,2023-04-27,Office Supplies,Delivered,467,19.17,17.11,49.0,Yes,17.11,7990.37,2023,453210,0.163,False,False,1.3024303099999999,Spend-based,Secondary
+PO-00721,Delta_Logistics,2022-09-24,2022-10-07,Packaging,Partially Delivered,1976,34.71,31.56,286.0,No,31.56,62362.56,2022,322211,0.49,False,False,30.5576544,Spend-based,Secondary
+PO-00722,Epsilon_Group,2023-01-24,2023-01-29,MRO,Delivered,1269,79.61,71.86,47.0,Yes,71.86,91190.34,2023,333999,0.26,False,False,23.709488399999998,Spend-based,Secondary
+PO-00723,Epsilon_Group,2022-12-02,2022-12-12,MRO,Delivered,875,57.63,51.8,16.0,Yes,51.8,45325.0,2022,333999,0.26,False,False,11.7845,Spend-based,Secondary
+PO-00724,Alpha_Inc,2022-08-05,,Packaging,Partially Delivered,1574,17.9,15.85,31.0,Yes,15.85,24947.899999999998,2022,322211,0.49,False,False,12.224471,Spend-based,Secondary
+PO-00725,Epsilon_Group,2023-04-11,2023-04-26,Office Supplies,Partially Delivered,1699,32.05,29.34,69.0,Yes,29.34,49848.659999999996,2023,453210,0.163,False,False,8.12533158,Spend-based,Secondary
+PO-00726,Alpha_Inc,2022-12-01,2022-12-17,Electronics,Delivered,1566,75.43,71.27,27.0,Yes,71.27,111608.81999999999,2022,334111,0.112,False,False,12.500187839999999,Spend-based,Secondary
+PO-00727,Gamma_Co,2022-12-12,2022-12-30,Electronics,Delivered,1148,17.78,17.16,61.0,Yes,17.16,19699.68,2022,334111,0.112,False,False,2.20636416,Spend-based,Secondary
+PO-00728,Epsilon_Group,2023-01-24,2023-02-11,Office Supplies,Delivered,462,91.81,83.14,11.0,Yes,83.14,38410.68,2023,453210,0.163,False,False,6.26094084,Spend-based,Secondary
+PO-00729,Gamma_Co,2022-10-12,2022-10-17,Packaging,Delivered,1449,57.02,49.28,71.0,Yes,49.28,71406.72,2022,322211,0.49,False,False,34.9892928,Spend-based,Secondary
+PO-00730,Epsilon_Group,2023-03-08,2023-03-27,MRO,Delivered,1493,56.98,52.51,43.0,Yes,52.51,78397.43,2023,333999,0.26,False,False,20.3833318,Spend-based,Secondary
+PO-00731,Alpha_Inc,2022-09-16,2022-09-18,Office Supplies,Delivered,778,65.85,62.08,,No,62.08,48298.24,2022,453210,0.163,False,False,7.87261312,Spend-based,Secondary
+PO-00732,Delta_Logistics,2022-03-25,2022-04-11,Packaging,Partially Delivered,1350,85.06,82.34,,No,82.34,111159.0,2022,322211,0.49,False,False,54.467909999999996,Spend-based,Secondary
+PO-00733,Epsilon_Group,2023-04-27,2023-05-05,Packaging,Delivered,1070,44.4,40.07,26.0,Yes,40.07,42874.9,2023,322211,0.49,False,False,21.008701000000002,Spend-based,Secondary
+PO-00736,Alpha_Inc,2022-02-23,2022-02-28,Electronics,Delivered,1467,34.2,30.5,25.0,Yes,30.5,44743.5,2022,334111,0.112,False,False,5.011272,Spend-based,Secondary
+PO-00737,Beta_Supplies,2022-12-25,2023-01-12,Packaging,Delivered,1942,93.98,81.31,198.0,Yes,81.31,157904.02000000002,2022,322211,0.49,False,False,77.3729698,Spend-based,Secondary
+PO-00738,Gamma_Co,2022-08-18,,Office Supplies,Delivered,506,84.63,72.69,20.0,Yes,72.69,36781.14,2022,453210,0.163,False,False,5.99532582,Spend-based,Secondary
+PO-00739,Alpha_Inc,2023-10-28,2023-11-13,MRO,Delivered,969,76.53,75.64,30.0,Yes,75.64,73295.16,2023,333999,0.26,False,False,19.056741600000002,Spend-based,Secondary
+PO-00740,Delta_Logistics,2022-03-12,2022-03-19,MRO,Delivered,241,87.42,82.15,,Yes,82.15,19798.15,2022,333999,0.26,False,False,5.147519,Spend-based,Secondary
+PO-00741,Gamma_Co,2023-10-30,2023-11-09,Raw Materials,Delivered,788,97.3,94.44,32.0,Yes,94.44,74418.72,2023,325199,1.51,False,False,112.3722672,Spend-based,Secondary
+PO-00742,Gamma_Co,2022-02-11,2022-02-13,Office Supplies,Delivered,1762,74.12,65.71,94.0,Yes,65.71,115781.01999999999,2022,453210,0.163,False,False,18.87230626,Spend-based,Secondary
+PO-00744,Delta_Logistics,2022-09-11,2022-09-30,Office Supplies,Delivered,1621,75.68,73.78,226.0,No,73.78,119597.38,2022,453210,0.163,False,False,19.49437294,Spend-based,Secondary
+PO-00745,Alpha_Inc,2022-07-24,2022-07-26,Packaging,Delivered,1027,73.35,65.42,24.0,No,65.42,67186.34,2022,322211,0.49,False,False,32.921306599999994,Spend-based,Secondary
+PO-00746,Beta_Supplies,2022-01-21,,Raw Materials,Delivered,1058,65.68,57.21,101.0,Yes,57.21,60528.18,2022,325199,1.51,False,False,91.3975518,Spend-based,Secondary
+PO-00747,Beta_Supplies,2023-09-29,2023-10-05,Packaging,Delivered,145,85.52,81.86,11.0,No,81.86,11869.7,2023,322211,0.49,False,False,5.816153,Spend-based,Secondary
+PO-00748,Epsilon_Group,2022-06-06,,Office Supplies,Delivered,1737,24.88,24.28,46.0,Yes,24.28,42174.36,2022,453210,0.163,False,False,6.87442068,Spend-based,Secondary
+PO-00749,Gamma_Co,2022-09-02,2022-09-15,Electronics,Delivered,712,92.85,89.39,43.0,Yes,89.39,63645.68,2022,334111,0.112,False,False,7.128316160000001,Spend-based,Secondary
+PO-00750,Epsilon_Group,2022-05-10,2022-05-16,Electronics,Delivered,1263,90.24,86.84,28.0,Yes,86.84,109678.92,2022,334111,0.112,False,False,12.28403904,Spend-based,Secondary
+PO-00751,Delta_Logistics,2023-04-30,,Electronics,Delivered,1809,13.58,12.68,,No,12.68,22938.12,2023,334111,0.112,False,False,2.56906944,Spend-based,Secondary
+PO-00753,Epsilon_Group,2022-04-28,,MRO,Delivered,1853,21.92,20.72,,Yes,20.72,38394.159999999996,2022,333999,0.26,False,False,9.9824816,Spend-based,Secondary
+PO-00754,Beta_Supplies,2023-08-01,2023-08-02,Electronics,Delivered,1442,43.98,41.82,140.0,No,41.82,60304.44,2023,334111,0.112,False,False,6.75409728,Spend-based,Secondary
+PO-00756,Beta_Supplies,2023-04-22,2023-05-03,Electronics,Partially Delivered,1598,26.3,26.03,154.0,No,26.03,41595.94,2023,334111,0.112,False,False,4.65874528,Spend-based,Secondary
+PO-00758,Epsilon_Group,2022-09-20,2022-09-25,Packaging,Delivered,266,88.29,80.22,4.0,Yes,80.22,21338.52,2022,322211,0.49,False,False,10.4558748,Spend-based,Secondary
+PO-00759,Gamma_Co,2023-01-13,2023-01-28,Raw Materials,Delivered,916,59.01,53.37,47.0,Yes,53.37,48886.92,2023,325199,1.51,False,False,73.81924919999999,Spend-based,Secondary
+PO-00761,Gamma_Co,2023-09-13,2023-09-28,Packaging,Delivered,1871,39.42,37.41,101.0,No,37.41,69994.11,2023,322211,0.49,False,False,34.2971139,Spend-based,Secondary
+PO-00762,Epsilon_Group,2023-09-14,2023-09-20,Raw Materials,Delivered,1346,72.08,67.04,38.0,Yes,67.04,90235.84000000001,2023,325199,1.51,False,False,136.25611840000002,Spend-based,Secondary
+PO-00763,Epsilon_Group,2022-04-28,2022-05-09,Electronics,Delivered,1954,99.78,87.47,57.0,Yes,87.47,170916.38,2022,334111,0.112,False,False,19.14263456,Spend-based,Secondary
+PO-00764,Beta_Supplies,2022-06-17,2022-07-06,Electronics,Delivered,111,68.53,65.22,11.0,Yes,65.22,7239.42,2022,334111,0.112,False,False,0.81081504,Spend-based,Secondary
+PO-00767,Gamma_Co,2023-08-16,2023-09-02,Electronics,Delivered,778,64.17,61.6,47.0,Yes,61.6,47924.8,2023,334111,0.112,False,False,5.367577600000001,Spend-based,Secondary
+PO-00768,Epsilon_Group,2022-01-27,2022-02-09,Office Supplies,Delivered,1415,80.19,78.34,,Yes,78.34,110851.1,2022,453210,0.163,False,False,18.0687293,Spend-based,Secondary
+PO-00769,Gamma_Co,2022-11-16,2022-11-22,Raw Materials,Delivered,446,20.61,19.46,14.0,Yes,19.46,8679.16,2022,325199,1.51,False,False,13.1055316,Spend-based,Secondary
+PO-00770,Epsilon_Group,2023-08-13,,Office Supplies,Delivered,748,85.95,79.16,32.0,Yes,79.16,59211.68,2023,453210,0.163,False,False,9.651503840000002,Spend-based,Secondary
+PO-00772,Beta_Supplies,2023-01-20,2023-02-02,Electronics,Delivered,226,102.47,99.16,28.0,Yes,99.16,22410.16,2023,334111,0.112,False,False,2.50993792,Spend-based,Secondary
+PO-00773,Delta_Logistics,2023-02-11,2023-02-20,Electronics,Delivered,1685,43.42,42.24,262.0,Yes,42.24,71174.40000000001,2023,334111,0.112,False,False,7.971532800000001,Spend-based,Secondary
+PO-00774,Alpha_Inc,2022-07-23,,Office Supplies,Delivered,445,68.94,60.35,7.0,Yes,60.35,26855.75,2022,453210,0.163,False,False,4.37748725,Spend-based,Secondary
+PO-00775,Gamma_Co,2022-03-19,2022-04-07,Raw Materials,Delivered,494,94.82,81.89,29.0,Yes,81.89,40453.66,2022,325199,1.51,False,False,61.085026600000006,Spend-based,Secondary
+PO-00776,Beta_Supplies,2023-08-30,2023-09-11,MRO,Delivered,1306,21.05,18.27,128.0,Yes,18.27,23860.62,2023,333999,0.26,False,False,6.2037612,Spend-based,Secondary
+PO-00777,Beta_Supplies,2023-12-09,2023-12-11,Office Supplies,Delivered,1988,105.2,93.23,187.0,Yes,93.23,185341.24000000002,2023,453210,0.163,False,False,30.210622120000004,Spend-based,Secondary
